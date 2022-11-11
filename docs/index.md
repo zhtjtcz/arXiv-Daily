@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-10**|**Ultrafast formation of topological defects in a 2D charge density wave**|Yun Cheng et.al.|[2211.05748v1](http://arxiv.org/abs/2211.05748v1)|null|
+|**2022-11-10**|**4H-SiC Schottky diode radiation hardness assessment by IBIC microscopy**|Ettore Vittone et.al.|[2211.05740v1](http://arxiv.org/abs/2211.05740v1)|null|
+|**2022-11-10**|**Simulations with machine learning potentials identify the ion conduction mechanism mediating non-Arrhenius behavior in LGPS**|Gavin Winter et.al.|[2211.05713v1](http://arxiv.org/abs/2211.05713v1)|null|
+|**2022-11-10**|**Generating astronomical spectra from photometry with conditional diffusion models**|Lars Doorenbos et.al.|[2211.05556v1](http://arxiv.org/abs/2211.05556v1)|null|
+|**2022-11-10**|**Nonlinear diffusion of fermions and bosons**|Georg Wolschin et.al.|[2211.05498v1](http://arxiv.org/abs/2211.05498v1)|null|
+|**2022-11-10**|**T-linear resistivity, optical conductivity and Planckian transport for a holographic local quantum critical metal in a periodic potential**|Floris Balm et.al.|[2211.05492v1](http://arxiv.org/abs/2211.05492v1)|null|
+|**2022-11-10**|**First-principles study on Small Polaron and Li diffusion in layered LiCoO2**|Seryung Ahn et.al.|[2211.05464v1](http://arxiv.org/abs/2211.05464v1)|null|
+|**2022-11-10**|**Towards chemical accuracy using the Jastrow correlated antisymmetrized geminal power ansatz**|Abhishek Raghav et.al.|[2211.05447v1](http://arxiv.org/abs/2211.05447v1)|null|
+|**2022-11-10**|**Non-Hermitian Hamiltonian Deformations in Quantum Mechanics**|Apollonas S. Matsoukas-Roubeas et.al.|[2211.05437v1](http://arxiv.org/abs/2211.05437v1)|null|
+|**2022-11-10**|**Controlling Moments with Kernel Stein Discrepancies**|Heishiro Kanagawa et.al.|[2211.05408v1](http://arxiv.org/abs/2211.05408v1)|null|
 |**2022-11-09**|**Asynchronous accretion can mimic diverse white dwarf pollutants I: core and mantle fragments**|Marc G. Brouwers et.al.|[2211.05114v1](http://arxiv.org/abs/2211.05114v1)|null|
 |**2022-11-09**|**Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models**|Patrick Schramowski et.al.|[2211.05105v1](http://arxiv.org/abs/2211.05105v1)|**[link](https://github.com/ml-research/safe-latent-diffusion)**|
 |**2022-11-09**|**Magnetospheric Multiscale Observations of Markov Turbulence on Kinetic Scales**|Wieslaw M. Macek et.al.|[2211.05098v1](http://arxiv.org/abs/2211.05098v1)|null|
@@ -38,6 +48,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-10**|**Sketched Gaussian Model Linear Discriminant Analysis via the Randomized Kaczmarz Method**|Jocelyn T. Chi et.al.|[2211.05749v1](http://arxiv.org/abs/2211.05749v1)|null|
+|**2022-11-10**|**A Randomised Subspace Gauss-Newton Method for Nonlinear Least-Squares**|Coralia Cartis et.al.|[2211.05727v1](http://arxiv.org/abs/2211.05727v1)|null|
+|**2022-11-10**|**DrawMon: A Distributed System for Detection of Atypical Sketch Content in Concurrent Pictionary Games**|Nikhil Bansal et.al.|[2211.05429v1](http://arxiv.org/abs/2211.05429v1)|null|
 |**2022-11-09**|**A Nearly Time-Optimal Distributed Approximation of Minimum Cost $k$-Edge-Connected Spanning Subgraph**|Michal Dory et.al.|[2211.04994v1](http://arxiv.org/abs/2211.04994v1)|null|
 |**2022-11-09**|**Modulo $d$ extension of parity results in Rogers-Ramanujan-Gordon type overpartition identities**|Kağan Kurşungöz et.al.|[2211.04749v1](http://arxiv.org/abs/2211.04749v1)|null|
 |**2022-11-09**|**Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations**|Yijun Dong et.al.|[2211.04676v1](http://arxiv.org/abs/2211.04676v1)|null|
