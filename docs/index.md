@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-11**|**Transport in p-wave interacting Fermi gases**|Jeff Maki et.al.|[2211.06314v1](http://arxiv.org/abs/2211.06314v1)|null|
+|**2022-11-11**|**Assessing passive scalar dynamics in bubble-induced turbulence using DNS**|Niklas Hidman et.al.|[2211.06293v1](http://arxiv.org/abs/2211.06293v1)|null|
+|**2022-11-11**|**HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation**|Kaiduo Zhang et.al.|[2211.06235v1](http://arxiv.org/abs/2211.06235v1)|null|
+|**2022-11-11**|**Global small solutions to the 3D compressible viscous non-resistive MHD system**|Jiahong Wu et.al.|[2211.06231v1](http://arxiv.org/abs/2211.06231v1)|null|
+|**2022-11-11**|**The role of solute diffusion in the dynamical evolution of directional solidification: From a viewpoint of dissipation**|Fengyi Yu et.al.|[2211.06207v1](http://arxiv.org/abs/2211.06207v1)|null|
+|**2022-11-11**|**Improved HER2 Tumor Segmentation with Subtype Balancing using Deep Generative Networks**|Mathias Öttl et.al.|[2211.06150v1](http://arxiv.org/abs/2211.06150v1)|null|
+|**2022-11-11**|**An unobtrusive quality supervision approach for medical image annotation**|Sonja Kunzmann et.al.|[2211.06146v1](http://arxiv.org/abs/2211.06146v1)|null|
+|**2022-11-11**|**On recurrent properties and convergence rates of generalised Fisher -- Wright's diffusion with mutation**|Roman Sineokiy et.al.|[2211.06098v1](http://arxiv.org/abs/2211.06098v1)|null|
+|**2022-11-11**|**Separating Times for One-Dimensional Diffusions**|David Criens et.al.|[2211.06042v1](http://arxiv.org/abs/2211.06042v1)|null|
+|**2022-11-11**|**Testing the galaxy collision induced formation scenario for the trail of dark matter deficient galaxies with the susceptibility of globular clusters to the tidal force**|Go Ogiya et.al.|[2211.05993v1](http://arxiv.org/abs/2211.05993v1)|null|
 |**2022-11-10**|**Ultrafast formation of topological defects in a 2D charge density wave**|Yun Cheng et.al.|[2211.05748v1](http://arxiv.org/abs/2211.05748v1)|null|
 |**2022-11-10**|**4H-SiC Schottky diode radiation hardness assessment by IBIC microscopy**|Ettore Vittone et.al.|[2211.05740v1](http://arxiv.org/abs/2211.05740v1)|null|
 |**2022-11-10**|**Simulations with machine learning potentials identify the ion conduction mechanism mediating non-Arrhenius behavior in LGPS**|Gavin Winter et.al.|[2211.05713v1](http://arxiv.org/abs/2211.05713v1)|null|
