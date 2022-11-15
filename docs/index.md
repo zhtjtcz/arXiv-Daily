@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-14**|**Growing Random Strings in CA**|M. Andrecut et.al.|[2211.07626v1](http://arxiv.org/abs/2211.07626v1)|null|
+|**2022-11-14**|**Limits on Leptonic TeV Emission from the Cygnus Cocoon with Swift-XRT**|David Guevel et.al.|[2211.07617v1](http://arxiv.org/abs/2211.07617v1)|null|
+|**2022-11-14**|**Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**|Gal Metzer et.al.|[2211.07600v1](http://arxiv.org/abs/2211.07600v1)|**[link](https://github.com/eladrich/latent-nerf)**|
+|**2022-11-14**|**Self-distillation with Online Diffusion on Batch Manifolds Improves Deep Metric Learning**|Zelong Zeng et.al.|[2211.07566v1](http://arxiv.org/abs/2211.07566v1)|**[link](https://github.com/zelongzeng/obd-sd_pytorch)**|
+|**2022-11-14**|**Credit Default Swaps and the mixed-fractional CEV model**|Axel A. Araneda et.al.|[2211.07564v1](http://arxiv.org/abs/2211.07564v1)|null|
+|**2022-11-14**|**High-resolution single-shot spiral diffusion-weighted imaging at 7T using expanded encoding with compressed sensing**|Gabriel Varela-Mattatall et.al.|[2211.07532v1](http://arxiv.org/abs/2211.07532v1)|null|
+|**2022-11-14**|**Cosmic Census: Relative Distributions of Dark Matter, Galaxies and Diffuse Gas**|Raphaël Kou et.al.|[2211.07502v1](http://arxiv.org/abs/2211.07502v1)|null|
+|**2022-11-14**|**Cosmological constraints on unimodular gravity models with diffusion**|Susana J. Landau et.al.|[2211.07424v1](http://arxiv.org/abs/2211.07424v1)|null|
+|**2022-11-14**|**Nonthermal processes and particle acceleration in supernova remnants**|Jacco Vink et.al.|[2211.07417v1](http://arxiv.org/abs/2211.07417v1)|null|
+|**2022-11-14**|**Modelling diffusive transport of particles interacting with slit nanopore walls: The case of fullerenes in toluene filled alumina pores**|Andreas Baer et.al.|[2211.07414v1](http://arxiv.org/abs/2211.07414v1)|null|
 |**2022-11-11**|**Transport in p-wave interacting Fermi gases**|Jeff Maki et.al.|[2211.06314v1](http://arxiv.org/abs/2211.06314v1)|null|
 |**2022-11-11**|**Assessing passive scalar dynamics in bubble-induced turbulence using DNS**|Niklas Hidman et.al.|[2211.06293v1](http://arxiv.org/abs/2211.06293v1)|null|
 |**2022-11-11**|**HumanDiffusion: a Coarse-to-Fine Alignment Diffusion Framework for Controllable Text-Driven Person Image Generation**|Kaiduo Zhang et.al.|[2211.06235v1](http://arxiv.org/abs/2211.06235v1)|null|
@@ -58,6 +68,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-14**|**The $\ell_p$-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines**|Yi Li et.al.|[2211.07132v1](http://arxiv.org/abs/2211.07132v1)|null|
 |**2022-11-10**|**Sketched Gaussian Model Linear Discriminant Analysis via the Randomized Kaczmarz Method**|Jocelyn T. Chi et.al.|[2211.05749v1](http://arxiv.org/abs/2211.05749v1)|null|
 |**2022-11-10**|**A Randomised Subspace Gauss-Newton Method for Nonlinear Least-Squares**|Coralia Cartis et.al.|[2211.05727v1](http://arxiv.org/abs/2211.05727v1)|null|
 |**2022-11-10**|**DrawMon: A Distributed System for Detection of Atypical Sketch Content in Concurrent Pictionary Games**|Nikhil Bansal et.al.|[2211.05429v1](http://arxiv.org/abs/2211.05429v1)|null|
