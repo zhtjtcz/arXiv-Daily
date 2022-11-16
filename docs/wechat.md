@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-11-15, **Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**, Xingqian Xu et.al., Paper: [http://arxiv.org/abs/2211.08332v1](http://arxiv.org/abs/2211.08332v1), Code: **[https://github.com/shi-labs/versatile-diffusion](https://github.com/shi-labs/versatile-diffusion)**
+- 2022-11-15, **Nonreciprocity induces resonances in two-field Cahn-Hilliard model**, Tobias Frohoff-Hülsmann et.al., Paper: [http://arxiv.org/abs/2211.08320v1](http://arxiv.org/abs/2211.08320v1)
+- 2022-11-15, **Existence and non-existence results for a semilinear fractional Neumann problem**, Eleonora Cinti et.al., Paper: [http://arxiv.org/abs/2211.08315v1](http://arxiv.org/abs/2211.08315v1)
+- 2022-11-15, **Scaling laws for two-dimensional dendritic crystal growth in a narrow channel**, Younggil Song et.al., Paper: [http://arxiv.org/abs/2211.08309v1](http://arxiv.org/abs/2211.08309v1)
+- 2022-11-15, **Diffusion of muonic hydrogen in hydrogen gas and the measurement of the 1$s$ hyperfine splitting of muonic hydrogen**, J. Nuber et.al., Paper: [http://arxiv.org/abs/2211.08297v1](http://arxiv.org/abs/2211.08297v1)
+- 2022-11-15, **Picosecond Spin-Orbit Torque Induced Coherent Magnetization Switching in a Ferromagnet**, Debanjan Polley et.al., Paper: [http://arxiv.org/abs/2211.08266v1](http://arxiv.org/abs/2211.08266v1)
+- 2022-11-15, **Spread of parasites affecting death and division rates in a cell population**, Aline Marguet et.al., Paper: [http://arxiv.org/abs/2211.08265v1](http://arxiv.org/abs/2211.08265v1)
+- 2022-11-15, **Exponential ergodicity of stochastic heat equations with Hölder coefficients**, Yi Han et.al., Paper: [http://arxiv.org/abs/2211.08242v1](http://arxiv.org/abs/2211.08242v1)
+- 2022-11-15, **Laser and Diffusion Driven Optimal Discrimination of Similar Quantum Systems in Resonator**, K. A. Lyakhov et.al., Paper: [http://arxiv.org/abs/2211.08214v1](http://arxiv.org/abs/2211.08214v1)
+- 2022-11-15, **DeepRGVP: A Novel Microstructure-Informed Supervised Contrastive Learning Framework for Automated Identification Of The Retinogeniculate Pathway Using dMRI Tractography**, Sipei Li et.al., Paper: [http://arxiv.org/abs/2211.08119v1](http://arxiv.org/abs/2211.08119v1)
 - 2022-11-14, **Growing Random Strings in CA**, M. Andrecut et.al., Paper: [http://arxiv.org/abs/2211.07626v1](http://arxiv.org/abs/2211.07626v1)
 - 2022-11-14, **Limits on Leptonic TeV Emission from the Cygnus Cocoon with Swift-XRT**, David Guevel et.al., Paper: [http://arxiv.org/abs/2211.07617v1](http://arxiv.org/abs/2211.07617v1)
 - 2022-11-14, **Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures**, Gal Metzer et.al., Paper: [http://arxiv.org/abs/2211.07600v1](http://arxiv.org/abs/2211.07600v1), Code: **[https://github.com/eladrich/latent-nerf](https://github.com/eladrich/latent-nerf)**
@@ -60,6 +70,7 @@
 
 ## sketch
 
+- 2022-11-14, **Emergence of Hadron Mass and Structure**, Minghui Ding et.al., Paper: [http://arxiv.org/abs/2211.07763v1](http://arxiv.org/abs/2211.07763v1)
 - 2022-11-14, **The $\ell_p$-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines**, Yi Li et.al., Paper: [http://arxiv.org/abs/2211.07132v1](http://arxiv.org/abs/2211.07132v1)
 - 2022-11-10, **Sketched Gaussian Model Linear Discriminant Analysis via the Randomized Kaczmarz Method**, Jocelyn T. Chi et.al., Paper: [http://arxiv.org/abs/2211.05749v1](http://arxiv.org/abs/2211.05749v1)
 - 2022-11-10, **A Randomised Subspace Gauss-Newton Method for Nonlinear Least-Squares**, Coralia Cartis et.al., Paper: [http://arxiv.org/abs/2211.05727v1](http://arxiv.org/abs/2211.05727v1)
