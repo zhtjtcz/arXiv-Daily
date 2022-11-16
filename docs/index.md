@@ -75,7 +75,7 @@ layout: default
 |**2022-11-09**|**A Nearly Time-Optimal Distributed Approximation of Minimum Cost $k$-Edge-Connected Spanning Subgraph**|Michal Dory et.al.|[2211.04994v1](http://arxiv.org/abs/2211.04994v1)|null|
 |**2022-11-09**|**Modulo $d$ extension of parity results in Rogers-Ramanujan-Gordon type overpartition identities**|Kağan Kurşungöz et.al.|[2211.04749v1](http://arxiv.org/abs/2211.04749v1)|null|
 |**2022-11-09**|**Efficient Bounds and Estimates for Canonical Angles in Randomized Subspace Approximations**|Yijun Dong et.al.|[2211.04676v1](http://arxiv.org/abs/2211.04676v1)|**[link](https://github.com/dyjdongyijun/randomized_subspace_approximation)**|
-|**2022-11-09**|**Computing (1+epsilon)-Approximate Degeneracy in Sublinear Time**|Valerie King et.al.|[2211.04627v1](http://arxiv.org/abs/2211.04627v1)|null|
+|**2022-11-15**|**Computing (1+epsilon)-Approximate Degeneracy in Sublinear Time**|Valerie King et.al.|[2211.04627v2](http://arxiv.org/abs/2211.04627v2)|null|
 |**2022-11-09**|**Conformal Frequency Estimation with Sketched Data under Relaxed Exchangeability**|Matteo Sesia et.al.|[2211.04612v1](http://arxiv.org/abs/2211.04612v1)|**[link](https://github.com/msesia/conformalized-sketching)**|
 |**2022-11-08**|**Streaming beyond sketching for Maximum Directed Cut**|Raghuvansh R. Saxena et.al.|[2211.03916v1](http://arxiv.org/abs/2211.03916v1)|null|
 |**2022-11-07**|**Asymptotics of the Sketched Pseudoinverse**|Daniel LeJeune et.al.|[2211.03751v1](http://arxiv.org/abs/2211.03751v1)|**[link](https://github.com/dlej/sketched-pseudoinverse)**|
