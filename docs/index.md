@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-16**|**Ground state baryons in the flux-tube three-body confinement model using Diffusion Monte Carlo**|Yao Ma et.al.|[2211.09021v1](http://arxiv.org/abs/2211.09021v1)|null|
+|**2022-11-16**|**Modelling 3D Force-Free Neutron Star Magnetospheres**|Petros Stefanou et.al.|[2211.08957v1](http://arxiv.org/abs/2211.08957v1)|null|
+|**2022-11-16**|**Exponential methods for anisotropic diffusion**|Pranab J. Deka et.al.|[2211.08953v1](http://arxiv.org/abs/2211.08953v1)|null|
+|**2022-11-16**|**Effective dust growth in laminar circumplanetary discs with magnetic wind-driven accretion**|Yuhito Shibaike et.al.|[2211.08947v1](http://arxiv.org/abs/2211.08947v1)|null|
+|**2022-11-16**|**Benchmarking Graph Neural Networks for FMRI analysis**|Ahmed ElGazzar et.al.|[2211.08927v1](http://arxiv.org/abs/2211.08927v1)|null|
+|**2022-11-16**|**Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields**|Xie Taofeng et.al.|[2211.08901v1](http://arxiv.org/abs/2211.08901v1)|null|
+|**2022-11-16**|**Fast Graph Generative Model via Spectral Diffusion**|Tianze Luo et.al.|[2211.08892v1](http://arxiv.org/abs/2211.08892v1)|null|
+|**2022-11-16**|**Numerical study of GCR proton transport**|Yurovsky V. O. et.al.|[2211.08873v1](http://arxiv.org/abs/2211.08873v1)|null|
+|**2022-11-16**|**Intrinsic Stochastic Differential Equation on Manifolds using Regular Lagrangian**|Sumit Suthar et.al.|[2211.08862v1](http://arxiv.org/abs/2211.08862v1)|null|
+|**2022-11-16**|**DHOST gravity in Ultra-diffuse galaxies -- Part II: NGC 1052-DF4 and Dragonfly 44**|Enrico Laudato et.al.|[2211.08839v1](http://arxiv.org/abs/2211.08839v1)|null|
 |**2022-11-15**|**Versatile Diffusion: Text, Images and Variations All in One Diffusion Model**|Xingqian Xu et.al.|[2211.08332v1](http://arxiv.org/abs/2211.08332v1)|**[link](https://github.com/shi-labs/versatile-diffusion)**|
 |**2022-11-15**|**Nonreciprocity induces resonances in two-field Cahn-Hilliard model**|Tobias Frohoff-Hülsmann et.al.|[2211.08320v1](http://arxiv.org/abs/2211.08320v1)|null|
 |**2022-11-15**|**Existence and non-existence results for a semilinear fractional Neumann problem**|Eleonora Cinti et.al.|[2211.08315v1](http://arxiv.org/abs/2211.08315v1)|null|
@@ -78,6 +88,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-16**|**A Creative Industry Image Generation Dataset Based on Captions**|Xiang Yuejia et.al.|[2211.09035v1](http://arxiv.org/abs/2211.09035v1)|null|
+|**2022-11-16**|**SketchySGD: Reliable Stochastic Optimization via Robust Curvature Estimates**|Zachary Frangella et.al.|[2211.08597v1](http://arxiv.org/abs/2211.08597v1)|null|
+|**2022-11-15**|**Baryogenesis, Primordial Black Holes and MHz-GHz Gravitational Waves**|Thomas C. Gehrman et.al.|[2211.08431v1](http://arxiv.org/abs/2211.08431v1)|null|
 |**2022-11-14**|**Emergence of Hadron Mass and Structure**|Minghui Ding et.al.|[2211.07763v1](http://arxiv.org/abs/2211.07763v1)|null|
 |**2022-11-14**|**The $\ell_p$-Subspace Sketch Problem in Small Dimensions with Applications to Support Vector Machines**|Yi Li et.al.|[2211.07132v1](http://arxiv.org/abs/2211.07132v1)|null|
 |**2022-11-10**|**Sketched Gaussian Model Linear Discriminant Analysis via the Randomized Kaczmarz Method**|Jocelyn T. Chi et.al.|[2211.05749v1](http://arxiv.org/abs/2211.05749v1)|null|
