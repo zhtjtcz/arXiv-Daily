@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-11-17, **InstructPix2Pix: Learning to Follow Image Editing Instructions**, Tim Brooks et.al., Paper: [http://arxiv.org/abs/2211.09800v1](http://arxiv.org/abs/2211.09800v1)
+- 2022-11-17, **Conffusion: Confidence Intervals for Diffusion Models**, Eliahu Horwitz et.al., Paper: [http://arxiv.org/abs/2211.09795v1](http://arxiv.org/abs/2211.09795v1)
+- 2022-11-17, **Null-text Inversion for Editing Real Images using Guided Diffusion Models**, Ron Mokady et.al., Paper: [http://arxiv.org/abs/2211.09794v1](http://arxiv.org/abs/2211.09794v1)
+- 2022-11-17, **DiffusionDet: Diffusion Model for Object Detection**, Shoufa Chen et.al., Paper: [http://arxiv.org/abs/2211.09788v1](http://arxiv.org/abs/2211.09788v1), Code: **[https://github.com/shoufachen/diffusiondet](https://github.com/shoufachen/diffusiondet)**
+- 2022-11-17, **Listen, denoise, action! Audio-driven motion synthesis with diffusion models**, Simon Alexanderson et.al., Paper: [http://arxiv.org/abs/2211.09707v1](http://arxiv.org/abs/2211.09707v1)
+- 2022-11-17, **Influence Maximization in Social Networks using Discretized Harris Hawks Optimization Algorithm and Neighbour Scout Strategy**, Inder Khatri et.al., Paper: [http://arxiv.org/abs/2211.09683v1](http://arxiv.org/abs/2211.09683v1)
+- 2022-11-17, **A Spreader Ranking Algorithm for Extremely Low-budget Influence Maximization in Social Networks using Community Bridge Nodes**, Aaryan Gupta et.al., Paper: [http://arxiv.org/abs/2211.09657v1](http://arxiv.org/abs/2211.09657v1)
+- 2022-11-17, **Superfluid drain vortex**, Wandrille Ruffenach et.al., Paper: [http://arxiv.org/abs/2211.09589v1](http://arxiv.org/abs/2211.09589v1)
+- 2022-11-17, **Neural Langevin Dynamics: towards interpretable Neural Stochastic Differential Equations**, Simon M. Koop et.al., Paper: [http://arxiv.org/abs/2211.09537v1](http://arxiv.org/abs/2211.09537v1)
+- 2022-11-17, **The iridescence of disordered resonant metasurfaces**, A. Agreda et.al., Paper: [http://arxiv.org/abs/2211.09520v1](http://arxiv.org/abs/2211.09520v1)
 - 2022-11-16, **Ground state baryons in the flux-tube three-body confinement model using Diffusion Monte Carlo**, Yao Ma et.al., Paper: [http://arxiv.org/abs/2211.09021v1](http://arxiv.org/abs/2211.09021v1)
 - 2022-11-16, **Modelling 3D Force-Free Neutron Star Magnetospheres**, Petros Stefanou et.al., Paper: [http://arxiv.org/abs/2211.08957v1](http://arxiv.org/abs/2211.08957v1)
 - 2022-11-16, **Exponential methods for anisotropic diffusion**, Pranab J. Deka et.al., Paper: [http://arxiv.org/abs/2211.08953v1](http://arxiv.org/abs/2211.08953v1)
@@ -80,6 +90,8 @@
 
 ## sketch
 
+- 2022-11-17, **Machine Learned Calabi--Yau Metrics and Curvature**, Per Berglund et.al., Paper: [http://arxiv.org/abs/2211.09801v1](http://arxiv.org/abs/2211.09801v1)
+- 2022-11-17, **Near-Optimal Distributed Computation of Small Vertex Cuts**, Merav Parter et.al., Paper: [http://arxiv.org/abs/2211.09415v1](http://arxiv.org/abs/2211.09415v1)
 - 2022-11-16, **A Creative Industry Image Generation Dataset Based on Captions**, Xiang Yuejia et.al., Paper: [http://arxiv.org/abs/2211.09035v1](http://arxiv.org/abs/2211.09035v1)
 - 2022-11-16, **SketchySGD: Reliable Stochastic Optimization via Robust Curvature Estimates**, Zachary Frangella et.al., Paper: [http://arxiv.org/abs/2211.08597v1](http://arxiv.org/abs/2211.08597v1)
 - 2022-11-15, **Baryogenesis, Primordial Black Holes and MHz-GHz Gravitational Waves**, Thomas C. Gehrman et.al., Paper: [http://arxiv.org/abs/2211.08431v1](http://arxiv.org/abs/2211.08431v1)
