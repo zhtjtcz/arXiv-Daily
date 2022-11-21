@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-18**|**Magic3D: High-Resolution Text-to-3D Content Creation**|Chen-Hsuan Lin et.al.|[2211.10440v1](http://arxiv.org/abs/2211.10440v1)|null|
+|**2022-11-18**|**A Structure-Guided Diffusion Model for Large-Hole Diverse Image Completion**|Daichi Horita et.al.|[2211.10437v1](http://arxiv.org/abs/2211.10437v1)|null|
+|**2022-11-18**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388v1](http://arxiv.org/abs/2211.10388v1)|null|
+|**2022-11-18**|**Invariant Learning via Diffusion Dreamed Distribution Shifts**|Priyatham Kattakinda et.al.|[2211.10370v1](http://arxiv.org/abs/2211.10370v1)|null|
+|**2022-11-18**|**Numerical discretization of a Darcy-Forchheimer problem coupled with a singular heat equation**|Alejandro Allendes et.al.|[2211.10325v1](http://arxiv.org/abs/2211.10325v1)|null|
+|**2022-11-18**|**Dark dust II: Properties in the general field of the diffuse ISM**|Ralf Siebenmorgen et.al.|[2211.10146v1](http://arxiv.org/abs/2211.10146v1)|null|
+|**2022-11-18**|**Tractography-Based Parcellation of Cerebellar Dentate Nuclei via a Deep Nonnegative Matrix Factorization Clustering Method**|Xiao Xu et.al.|[2211.10107v1](http://arxiv.org/abs/2211.10107v1)|null|
+|**2022-11-18**|**Numerical simulation of two-phase flow in gas diffusion layer and gas channel of proton exchange membrane fuel cells**|Danan Yang et.al.|[2211.10084v1](http://arxiv.org/abs/2211.10084v1)|null|
+|**2022-11-18**|**Exponential growth of out-of-time-order correlator of regular orbits**|Shangyun Wang et.al.|[2211.10078v1](http://arxiv.org/abs/2211.10078v1)|null|
+|**2022-11-18**|**Energetics of Cytoskeletal Gel Contraction**|Matteo Ferraresso et.al.|[2211.10021v1](http://arxiv.org/abs/2211.10021v1)|null|
 |**2022-11-17**|**InstructPix2Pix: Learning to Follow Image Editing Instructions**|Tim Brooks et.al.|[2211.09800v1](http://arxiv.org/abs/2211.09800v1)|null|
 |**2022-11-17**|**Conffusion: Confidence Intervals for Diffusion Models**|Eliahu Horwitz et.al.|[2211.09795v1](http://arxiv.org/abs/2211.09795v1)|**[link](https://github.com/eliahuhorwitz/conffusion)**|
 |**2022-11-17**|**Null-text Inversion for Editing Real Images using Guided Diffusion Models**|Ron Mokady et.al.|[2211.09794v1](http://arxiv.org/abs/2211.09794v1)|null|
@@ -98,6 +108,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/beyondguo/genius)**|
+|**2022-11-18**|**Understanding the double descent curve in Machine Learning**|Luis Sa-Couto et.al.|[2211.10322v1](http://arxiv.org/abs/2211.10322v1)|null|
+|**2022-11-18**|**Identifying Correlation in Stream of Samples**|Zhenhao Gu et.al.|[2211.10137v1](http://arxiv.org/abs/2211.10137v1)|null|
+|**2022-11-18**|**The communication cost of security and privacy in federated frequency estimation**|Wei-Ning Chen et.al.|[2211.10041v1](http://arxiv.org/abs/2211.10041v1)|null|
+|**2022-11-17**|**Origin of the Proton Mass**|Craig D. Roberts et.al.|[2211.09905v1](http://arxiv.org/abs/2211.09905v1)|null|
+|**2022-11-17**|**Randomised subspace methods for non-convex optimization, with applications to nonlinear least-squares**|Coralia Cartis et.al.|[2211.09873v1](http://arxiv.org/abs/2211.09873v1)|null|
 |**2022-11-17**|**Machine Learned Calabi--Yau Metrics and Curvature**|Per Berglund et.al.|[2211.09801v1](http://arxiv.org/abs/2211.09801v1)|null|
 |**2022-11-17**|**Near-Optimal Distributed Computation of Small Vertex Cuts**|Merav Parter et.al.|[2211.09415v1](http://arxiv.org/abs/2211.09415v1)|null|
 |**2022-11-16**|**A Creative Industry Image Generation Dataset Based on Captions**|Xiang Yuejia et.al.|[2211.09035v1](http://arxiv.org/abs/2211.09035v1)|null|
