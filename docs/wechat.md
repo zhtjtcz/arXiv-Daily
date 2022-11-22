@@ -102,7 +102,7 @@
 
 - 2022-11-18, **GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**, Biyang Guo et.al., Paper: [http://arxiv.org/abs/2211.10330v1](http://arxiv.org/abs/2211.10330v1), Code: **[https://github.com/beyondguo/genius](https://github.com/beyondguo/genius)**
 - 2022-11-18, **Understanding the double descent curve in Machine Learning**, Luis Sa-Couto et.al., Paper: [http://arxiv.org/abs/2211.10322v1](http://arxiv.org/abs/2211.10322v1)
-- 2022-11-18, **Identifying Correlation in Stream of Samples**, Zhenhao Gu et.al., Paper: [http://arxiv.org/abs/2211.10137v1](http://arxiv.org/abs/2211.10137v1)
+- 2022-11-18, **Identifying Correlation in Stream of Samples**, Zhenhao Gu et.al., Paper: [http://arxiv.org/abs/2211.10137v1](http://arxiv.org/abs/2211.10137v1), Code: **[https://github.com/gzhoffie/cs5234-mini-project](https://github.com/gzhoffie/cs5234-mini-project)**
 - 2022-11-18, **The communication cost of security and privacy in federated frequency estimation**, Wei-Ning Chen et.al., Paper: [http://arxiv.org/abs/2211.10041v1](http://arxiv.org/abs/2211.10041v1)
 - 2022-11-17, **Origin of the Proton Mass**, Craig D. Roberts et.al., Paper: [http://arxiv.org/abs/2211.09905v1](http://arxiv.org/abs/2211.09905v1)
 - 2022-11-17, **Randomised subspace methods for non-convex optimization, with applications to nonlinear least-squares**, Coralia Cartis et.al., Paper: [http://arxiv.org/abs/2211.09873v1](http://arxiv.org/abs/2211.09873v1)
