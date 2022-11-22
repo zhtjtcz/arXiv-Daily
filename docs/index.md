@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-21**|**SinFusion: Training Diffusion Models on a Single Image or Video**|Yaniv Nikankin et.al.|[2211.11743v1](http://arxiv.org/abs/2211.11743v1)|null|
+|**2022-11-21**|**SceneComposer: Any-Level Semantic Image Synthesis**|Yu Zeng et.al.|[2211.11742v1](http://arxiv.org/abs/2211.11742v1)|null|
+|**2022-11-21**|**Shot noise as a characterization of strongly correlated metals**|Yiming Wang et.al.|[2211.11735v1](http://arxiv.org/abs/2211.11735v1)|null|
+|**2022-11-21**|**Neural tangent kernel analysis of PINN for advection-diffusion equation**|M. H. Saadat et.al.|[2211.11716v1](http://arxiv.org/abs/2211.11716v1)|null|
+|**2022-11-21**|**Exploring Discrete Diffusion Models for Image Captioning**|Zixin Zhu et.al.|[2211.11694v1](http://arxiv.org/abs/2211.11694v1)|null|
+|**2022-11-21**|**Guided Depth Super-Resolution by Deep Anisotropic Diffusion**|Nando Metzger et.al.|[2211.11592v1](http://arxiv.org/abs/2211.11592v1)|null|
+|**2022-11-21**|**VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models**|Ajay Jain et.al.|[2211.11319v1](http://arxiv.org/abs/2211.11319v1)|null|
+|**2022-11-21**|**Avoiding order reduction with explicit Runge-Kutta exponential methods in nonlinear initial boundary value problems**|Begoña Cano et.al.|[2211.11318v1](http://arxiv.org/abs/2211.11318v1)|null|
+|**2022-11-21**|**Emergence of geometric Turing patterns in complex networks**|Jasper van der Kolk et.al.|[2211.11311v1](http://arxiv.org/abs/2211.11311v1)|null|
+|**2022-11-21**|**Peering into the Milky Way by FAST: II. Ionized gas in the inner Galactic disk revealed by the piggyback line observations of the FAST GPPS survey**|Ligang Hou et.al.|[2211.11301v1](http://arxiv.org/abs/2211.11301v1)|null|
 |**2022-11-18**|**Magic3D: High-Resolution Text-to-3D Content Creation**|Chen-Hsuan Lin et.al.|[2211.10440v1](http://arxiv.org/abs/2211.10440v1)|null|
 |**2022-11-18**|**A Structure-Guided Diffusion Model for Large-Hole Diverse Image Completion**|Daichi Horita et.al.|[2211.10437v1](http://arxiv.org/abs/2211.10437v1)|null|
 |**2022-11-18**|**Patch-Based Denoising Diffusion Probabilistic Model for Sparse-View CT Reconstruction**|Wenjun Xia et.al.|[2211.10388v1](http://arxiv.org/abs/2211.10388v1)|null|
@@ -108,6 +118,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-21**|**An improved lower bound for the union-closed set conjecture**|Will Sawin et.al.|[2211.11504v1](http://arxiv.org/abs/2211.11504v1)|null|
+|**2022-11-21**|**The Bell experiment; an epistemological approach**|Inge S. Helland et.al.|[2211.11330v1](http://arxiv.org/abs/2211.11330v1)|null|
+|**2022-11-21**|**VectorFusion: Text-to-SVG by Abstracting Pixel-Based Diffusion Models**|Ajay Jain et.al.|[2211.11319v1](http://arxiv.org/abs/2211.11319v1)|null|
+|**2022-11-20**|**Quantum Fluids of Light**|Iacopo Carusotto et.al.|[2211.10980v1](http://arxiv.org/abs/2211.10980v1)|null|
 |**2022-11-18**|**GENIUS: Sketch-based Language Model Pre-training via Extreme and Selective Masking for Text Generation and Augmentation**|Biyang Guo et.al.|[2211.10330v1](http://arxiv.org/abs/2211.10330v1)|**[link](https://github.com/beyondguo/genius)**|
 |**2022-11-18**|**Understanding the double descent curve in Machine Learning**|Luis Sa-Couto et.al.|[2211.10322v1](http://arxiv.org/abs/2211.10322v1)|null|
 |**2022-11-18**|**Identifying Correlation in Stream of Samples**|Zhenhao Gu et.al.|[2211.10137v1](http://arxiv.org/abs/2211.10137v1)|**[link](https://github.com/gzhoffie/cs5234-mini-project)**|
