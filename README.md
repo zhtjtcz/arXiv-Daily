@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-23**|**Paint by Example: Exemplar-based Image Editing with Diffusion Models**|Binxin Yang et.al.|[2211.13227v1](http://arxiv.org/abs/2211.13227v1)|**[link](https://github.com/Fantasy-Studio/Paint-by-Example)**|
+|**2022-11-23**|**Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors**|Ryan Burgert et.al.|[2211.13224v1](http://arxiv.org/abs/2211.13224v1)|null|
+|**2022-11-23**|**Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths**|Yingqing He et.al.|[2211.13221v1](http://arxiv.org/abs/2211.13221v1)|**[link](https://github.com/yingqinghe/lvdm)**|
+|**2022-11-23**|**Tetrahedral Diffusion Models for 3D Shape Generation**|Nikolai Kalischek et.al.|[2211.13220v1](http://arxiv.org/abs/2211.13220v1)|null|
+|**2022-11-23**|**Inversion-Based Creativity Transfer with Diffusion Models**|Yuxin Zhang et.al.|[2211.13203v1](http://arxiv.org/abs/2211.13203v1)|**[link](https://github.com/zyxelsa/creativity-transfer)**|
+|**2022-11-23**|**Logarithmic Sobolev and interpolation inequalities on the sphere: constructive stability results**|Giovanni Brigati et.al.|[2211.13180v1](http://arxiv.org/abs/2211.13180v1)|null|
+|**2022-11-23**|**Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition**|Lukas Schumacher et.al.|[2211.13165v1](http://arxiv.org/abs/2211.13165v1)|null|
+|**2022-11-23**|**Na-ion Dynamics in the Solid Solution Na$_{\rm x}$Ca$_{1- \rm x}$Cr$_2$O$_4$ Studied by Muon Spin Rotation and Neutron Diffraction**|Elisabetta Nocerino et.al.|[2211.13164v1](http://arxiv.org/abs/2211.13164v1)|null|
+|**2022-11-23**|**The excitable fluid mosaic**|Thomas Heimburg et.al.|[2211.13144v1](http://arxiv.org/abs/2211.13144v1)|null|
+|**2022-11-23**|**Room-temperature photo-chromism of silicon vacancy centers in CVD diamond**|Alexander Wood et.al.|[2211.13141v1](http://arxiv.org/abs/2211.13141v1)|null|
 |**2022-11-22**|**Person Image Synthesis via Denoising Diffusion Model**|Ankan Kumar Bhunia et.al.|[2211.12500v1](http://arxiv.org/abs/2211.12500v1)|**[link](https://github.com/ankanbhunia/PIDM)**|
 |**2022-11-22**|**The 3D narrow capture problem for traps with semipermeable interfaces**|Paul C Bressloff et.al.|[2211.12472v1](http://arxiv.org/abs/2211.12472v1)|null|
 |**2022-11-22**|**Diffusion with stochastic resetting screened by a semipermeable interface**|Paul C Bressloff et.al.|[2211.12468v1](http://arxiv.org/abs/2211.12468v1)|null|
@@ -124,6 +134,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-23**|**Parallel Randomized Tucker Decomposition Algorithms**|Rachel Minster et.al.|[2211.13028v1](http://arxiv.org/abs/2211.13028v1)|null|
+|**2022-11-23**|**Semantics-Preserving Sketch Embedding for Face Generation**|Binxin Yang et.al.|[2211.13015v1](http://arxiv.org/abs/2211.13015v1)|null|
+|**2022-11-22**|**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**|Narek Tumanyan et.al.|[2211.12572v1](http://arxiv.org/abs/2211.12572v1)|null|
 |**2022-11-22**|**Randomized sketching of nonlinear eigenvalue problems**|Stefan Güttel et.al.|[2211.12175v1](http://arxiv.org/abs/2211.12175v1)|null|
 |**2022-11-21**|**An improved lower bound for the union-closed set conjecture**|Will Sawin et.al.|[2211.11504v1](http://arxiv.org/abs/2211.11504v1)|null|
 |**2022-11-21**|**The Bell experiment; an epistemological approach**|Inge S. Helland et.al.|[2211.11330v1](http://arxiv.org/abs/2211.11330v1)|null|
