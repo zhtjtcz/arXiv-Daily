@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-> Updated on 2022.11.25
+> Updated on 2022.11.26
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 - 2022-11-23, **Tetrahedral Diffusion Models for 3D Shape Generation**, Nikolai Kalischek et.al., Paper: [http://arxiv.org/abs/2211.13220v1](http://arxiv.org/abs/2211.13220v1)
 - 2022-11-23, **Inversion-Based Creativity Transfer with Diffusion Models**, Yuxin Zhang et.al., Paper: [http://arxiv.org/abs/2211.13203v1](http://arxiv.org/abs/2211.13203v1), Code: **[https://github.com/zyxelsa/creativity-transfer](https://github.com/zyxelsa/creativity-transfer)**
 - 2022-11-23, **Logarithmic Sobolev and interpolation inequalities on the sphere: constructive stability results**, Giovanni Brigati et.al., Paper: [http://arxiv.org/abs/2211.13180v1](http://arxiv.org/abs/2211.13180v1)
-- 2022-11-23, **Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition**, Lukas Schumacher et.al., Paper: [http://arxiv.org/abs/2211.13165v1](http://arxiv.org/abs/2211.13165v1)
+- 2022-11-23, **Neural Superstatistics: A Bayesian Method for Estimating Dynamic Models of Cognition**, Lukas Schumacher et.al., Paper: [http://arxiv.org/abs/2211.13165v1](http://arxiv.org/abs/2211.13165v1), Code: **[https://github.com/LuSchumacher/dynamic_ddm](https://github.com/LuSchumacher/dynamic_ddm)**
 - 2022-11-23, **Na-ion Dynamics in the Solid Solution Na$_{\rm x}$Ca$_{1- \rm x}$Cr$_2$O$_4$ Studied by Muon Spin Rotation and Neutron Diffraction**, Elisabetta Nocerino et.al., Paper: [http://arxiv.org/abs/2211.13164v1](http://arxiv.org/abs/2211.13164v1)
 - 2022-11-23, **The excitable fluid mosaic**, Thomas Heimburg et.al., Paper: [http://arxiv.org/abs/2211.13144v1](http://arxiv.org/abs/2211.13144v1)
 - 2022-11-23, **Room-temperature photo-chromism of silicon vacancy centers in CVD diamond**, Alexander Wood et.al., Paper: [http://arxiv.org/abs/2211.13141v1](http://arxiv.org/abs/2211.13141v1)
@@ -126,7 +126,7 @@
 - 2022-11-09, **Randomization of Short-Rate Models, Analytic Pricing and Flexibility in Controlling Implied Volatilities**, Lech A. Grzelak et.al., Paper: [http://arxiv.org/abs/2211.05014v1](http://arxiv.org/abs/2211.05014v1)
 - 2022-11-10, **A pre-time-zero spatiotemporal microscopy technique for the ultrasensitive determination of the thermal diffusivity of thin films**, Sebin Varghese et.al., Paper: [http://arxiv.org/abs/2211.04999v2](http://arxiv.org/abs/2211.04999v2)
 
-<p align=right>(<a href=#Updated-on-20221125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221126>back to top</a>)</p>
 
 ## sketch
 
@@ -165,7 +165,7 @@
 - 2022-11-06, **The effect of the processing and measurement operators on the expressive power of quantum models**, Aikaterini et.al., Paper: [http://arxiv.org/abs/2211.03101v1](http://arxiv.org/abs/2211.03101v1), Code: **[https://github.com/katerinagratsea/teacher-student_scheme-part-2](https://github.com/katerinagratsea/teacher-student_scheme-part-2)**
 - 2022-11-05, **Further investigations on certain star selection principles**, Debraj Chandra et.al., Paper: [http://arxiv.org/abs/2211.02962v1](http://arxiv.org/abs/2211.02962v1)
 
-<p align=right>(<a href=#Updated-on-20221125>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
