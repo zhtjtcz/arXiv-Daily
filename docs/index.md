@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-25**|**SpaText: Spatio-Textual Representation for Controllable Image Generation**|Omri Avrahami et.al.|[2211.14305v1](http://arxiv.org/abs/2211.14305v1)|null|
+|**2022-11-25**|**BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**|German Barquero et.al.|[2211.14304v1](http://arxiv.org/abs/2211.14304v1)|null|
+|**2022-11-25**|**CHIMLE: Conditional Hierarchical IMLE for Multimodal Conditional Image Synthesis**|Shichong Peng et.al.|[2211.14286v1](http://arxiv.org/abs/2211.14286v1)|null|
+|**2022-11-25**|**Improved GaInP/GaAs/GaInAs inverted metamorphic triple-junction solar cells by reduction of Zn diffusion in the top subcell**|Manuel Hinojosa et.al.|[2211.14277v1](http://arxiv.org/abs/2211.14277v1)|null|
+|**2022-11-25**|**GREAD: Graph Neural Reaction-Diffusion Equations**|Jeongwhan Choi et.al.|[2211.14208v1](http://arxiv.org/abs/2211.14208v1)|null|
+|**2022-11-25**|**Diffusion coefficient of a Brownian particle in equilibrium and nonequilibrium: Einstein model and beyond**|Jakub Spiechowicz et.al.|[2211.14190v1](http://arxiv.org/abs/2211.14190v1)|null|
+|**2022-11-25**|**Latent Space Diffusion Models of Cryo-EM Structures**|Karsten Kreis et.al.|[2211.14169v1](http://arxiv.org/abs/2211.14169v1)|null|
+|**2022-11-25**|**Active responsive colloids driven by intrinsic dichotomous noise**|Nils Göth et.al.|[2211.14164v1](http://arxiv.org/abs/2211.14164v1)|null|
+|**2022-11-25**|**The Gaia-ESO Survey: probing the lithium abundances in old metal-rich dwarf stars in the Solar vicinity**|M. L. L. Dantas et.al.|[2211.14132v1](http://arxiv.org/abs/2211.14132v1)|null|
+|**2022-11-25**|**Symmetric Exclusion Process under Stochastic Power-law Resetting**|Seemant Mishra et.al.|[2211.14120v1](http://arxiv.org/abs/2211.14120v1)|null|
 |**2022-11-23**|**Paint by Example: Exemplar-based Image Editing with Diffusion Models**|Binxin Yang et.al.|[2211.13227v1](http://arxiv.org/abs/2211.13227v1)|**[link](https://github.com/Fantasy-Studio/Paint-by-Example)**|
 |**2022-11-23**|**Peekaboo: Text to Image Diffusion Models are Zero-Shot Segmentors**|Ryan Burgert et.al.|[2211.13224v1](http://arxiv.org/abs/2211.13224v1)|null|
 |**2022-11-23**|**Latent Video Diffusion Models for High-Fidelity Video Generation with Arbitrary Lengths**|Yingqing He et.al.|[2211.13221v1](http://arxiv.org/abs/2211.13221v1)|**[link](https://github.com/yingqinghe/lvdm)**|
@@ -138,6 +148,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-11-25**|**M$^2$M: A general method to perform various data analysis tasks from a differentially private sketch**|Florimond Houssiau et.al.|[2211.14062v1](http://arxiv.org/abs/2211.14062v1)|null|
+|**2022-11-25**|**Towards Better Bounds for Finding Quasi-Identifiers**|Ryan Hildebrant et.al.|[2211.13882v1](http://arxiv.org/abs/2211.13882v1)|null|
+|**2022-11-24**|**Neural Weight Search for Scalable Task Incremental Learning**|Jian Jiang et.al.|[2211.13823v1](http://arxiv.org/abs/2211.13823v1)|**[link](https://github.com/jianjiangkcl/neuralweightsearch)**|
+|**2022-11-24**|**Sketch-Guided Text-to-Image Diffusion Models**|Andrey Voynov et.al.|[2211.13752v1](http://arxiv.org/abs/2211.13752v1)|null|
+|**2022-11-24**|**A doubly-infinite family of 0-APN monomials**|Nikolay Kaleyski et.al.|[2211.13485v1](http://arxiv.org/abs/2211.13485v1)|null|
 |**2022-11-23**|**Parallel Randomized Tucker Decomposition Algorithms**|Rachel Minster et.al.|[2211.13028v1](http://arxiv.org/abs/2211.13028v1)|null|
 |**2022-11-23**|**Semantics-Preserving Sketch Embedding for Face Generation**|Binxin Yang et.al.|[2211.13015v1](http://arxiv.org/abs/2211.13015v1)|null|
 |**2022-11-22**|**Plug-and-Play Diffusion Features for Text-Driven Image-to-Image Translation**|Narek Tumanyan et.al.|[2211.12572v1](http://arxiv.org/abs/2211.12572v1)|null|
