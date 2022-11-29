@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-28**|**Is Conditional Generative Modeling all you need for Decision-Making?**|Anurag Ajay et.al.|[2211.15657v1](http://arxiv.org/abs/2211.15657v1)|null|
+|**2022-11-28**|**Energetic electron precipitation driven by electromagnetic ion cyclotron waves from ELFIN's low altitude perspective**|V. Angelopoulos et.al.|[2211.15653v1](http://arxiv.org/abs/2211.15653v1)|null|
+|**2022-11-28**|**Stochastic Optimal Control via Local Occupation Measures**|Flemming Holtorf et.al.|[2211.15652v1](http://arxiv.org/abs/2211.15652v1)|null|
+|**2022-11-28**|**High-performance xPU Stencil Computations in Julia**|Samuel Omlin et.al.|[2211.15634v1](http://arxiv.org/abs/2211.15634v1)|null|
+|**2022-11-28**|**Non-ideal magnetohydrodynamics of self-gravitating filaments**|Nicol Gutiérrez-Vera et.al.|[2211.15615v1](http://arxiv.org/abs/2211.15615v1)|null|
+|**2022-11-28**|**Diffuse Emission of Galactic High-Energy Neutrinos from a Global Fit of Cosmic Rays**|Georg Schwefer et.al.|[2211.15607v1](http://arxiv.org/abs/2211.15607v1)|null|
+|**2022-11-28**|**Dynamic Equilibrium with Inisder Information and General Uninformed Agent Utility**|Jerome Detemple et.al.|[2211.15573v1](http://arxiv.org/abs/2211.15573v1)|null|
+|**2022-11-28**|**Fast non-Hermitian Toeplitz eigenvalue computations, joining matrix-less algorithms and FDE approximation matrices**|M. Bogoya et.al.|[2211.15506v1](http://arxiv.org/abs/2211.15506v1)|null|
+|**2022-11-28**|**How nanoporous silicon-polypyrrole hybrids flex their muscles in aqueous electrolytes: In operando high-resolution x-ray diffraction and electron tomography-based micromechanical computer simulations**|Manuel Brinker et.al.|[2211.15496v1](http://arxiv.org/abs/2211.15496v1)|null|
+|**2022-11-28**|**SILCC VII -- Gas kinematics and multiphase outflows of the simulated ISM at high gas surface densities**|Tim-Eric Rathjen et.al.|[2211.15419v1](http://arxiv.org/abs/2211.15419v1)|null|
 |**2022-11-25**|**SpaText: Spatio-Textual Representation for Controllable Image Generation**|Omri Avrahami et.al.|[2211.14305v1](http://arxiv.org/abs/2211.14305v1)|null|
 |**2022-11-25**|**BeLFusion: Latent Diffusion for Behavior-Driven Human Motion Prediction**|German Barquero et.al.|[2211.14304v1](http://arxiv.org/abs/2211.14304v1)|**[link](https://github.com/BarqueroGerman/BeLFusion)**|
 |**2022-11-25**|**CHIMLE: Conditional Hierarchical IMLE for Multimodal Conditional Image Synthesis**|Shichong Peng et.al.|[2211.14286v1](http://arxiv.org/abs/2211.14286v1)|null|
@@ -144,6 +154,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-11-27**|**Dynamic Kernel Sparsifiers**|Yichuan Deng et.al.|[2211.14825v1](http://arxiv.org/abs/2211.14825v1)|null|
+|**2022-11-26**|**Sketch2FullStack: Generating Skeleton Code of Full Stack Website and Application from Sketch using Deep Learning and Computer Vision**|Somoy Subandhu Barua et.al.|[2211.14607v1](http://arxiv.org/abs/2211.14607v1)|null|
+|**2022-11-26**|**Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**|Fan Yang et.al.|[2211.14515v1](http://arxiv.org/abs/2211.14515v1)|**[link](https://github.com/fandulu/IHDA)**|
+|**2022-11-26**|**Full Temperature-Dependent Potential and Anharmonicity in Metallic Hydrogen: Colossal NQE and the Consequences**|Hua Y. Geng et.al.|[2211.14474v1](http://arxiv.org/abs/2211.14474v1)|null|
 |**2022-11-25**|**M$^2$M: A general method to perform various data analysis tasks from a differentially private sketch**|Florimond Houssiau et.al.|[2211.14062v1](http://arxiv.org/abs/2211.14062v1)|null|
 |**2022-11-25**|**Towards Better Bounds for Finding Quasi-Identifiers**|Ryan Hildebrant et.al.|[2211.13882v1](http://arxiv.org/abs/2211.13882v1)|null|
 |**2022-11-24**|**Neural Weight Search for Scalable Task Incremental Learning**|Jian Jiang et.al.|[2211.13823v1](http://arxiv.org/abs/2211.13823v1)|**[link](https://github.com/jianjiangkcl/neuralweightsearch)**|
