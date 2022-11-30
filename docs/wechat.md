@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-11-29, **DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion models**, Karl Holmquist et.al., Paper: [http://arxiv.org/abs/2211.16487v1](http://arxiv.org/abs/2211.16487v1)
+- 2022-11-29, **Retweets Distort Exposure to Polarized Information**, Ashwin Rao et.al., Paper: [http://arxiv.org/abs/2211.16480v1](http://arxiv.org/abs/2211.16480v1)
+- 2022-11-29, **NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views**, Dejia Xu et.al., Paper: [http://arxiv.org/abs/2211.16431v1](http://arxiv.org/abs/2211.16431v1)
+- 2022-11-29, **Numerical Schemes for Effective Calibration of Elliptic and Hypo-elliptic Diffusions**, Yuga Iguchi et.al., Paper: [http://arxiv.org/abs/2211.16384v1](http://arxiv.org/abs/2211.16384v1)
+- 2022-11-29, **DATID-3D: Diversity-Preserved Domain Adaptation Using Text-to-Image Diffusion for 3D Generative Model**, Gwanghyun Kim et.al., Paper: [http://arxiv.org/abs/2211.16374v1](http://arxiv.org/abs/2211.16374v1)
+- 2022-11-29, **How Many Tweets DoWe Need?: Efficient Mining of Short-Term Polarized Topics on Twitter: A Case Study From Japan**, Tomoki Fukuma et.al., Paper: [http://arxiv.org/abs/2211.16305v1](http://arxiv.org/abs/2211.16305v1)
+- 2022-11-29, **Molecular rotors for in situ local viscosity mapping in microfluidic chips**, Dharshana Nalatamby et.al., Paper: [http://arxiv.org/abs/2211.16249v1](http://arxiv.org/abs/2211.16249v1)
+- 2022-11-29, **Ada3Diff: Defending against 3D Adversarial Point Clouds via Adaptive Diffusion**, Kui Zhang et.al., Paper: [http://arxiv.org/abs/2211.16247v1](http://arxiv.org/abs/2211.16247v1)
+- 2022-11-29, **Universal ion-transport descriptors and classes of inorganic solid-state electrolytes**, Cibrán López et.al., Paper: [http://arxiv.org/abs/2211.16224v1](http://arxiv.org/abs/2211.16224v1)
+- 2022-11-29, **Computational modelling of passive transport of functionalized nanoparticles**, Daniela Moreno-Chaparro et.al., Paper: [http://arxiv.org/abs/2211.16181v1](http://arxiv.org/abs/2211.16181v1)
 - 2022-11-28, **Is Conditional Generative Modeling all you need for Decision-Making?**, Anurag Ajay et.al., Paper: [http://arxiv.org/abs/2211.15657v1](http://arxiv.org/abs/2211.15657v1)
 - 2022-11-28, **Energetic electron precipitation driven by electromagnetic ion cyclotron waves from ELFIN's low altitude perspective**, V. Angelopoulos et.al., Paper: [http://arxiv.org/abs/2211.15653v1](http://arxiv.org/abs/2211.15653v1)
 - 2022-11-28, **Stochastic Optimal Control via Local Occupation Measures**, Flemming Holtorf et.al., Paper: [http://arxiv.org/abs/2211.15652v1](http://arxiv.org/abs/2211.15652v1)
@@ -150,6 +160,9 @@
 
 ## sketch
 
+- 2022-11-29, **Seven Concepts Attributed to Siméon-Denis Poisson**, Yvette Kosmann-Schwarzbach et.al., Paper: [http://arxiv.org/abs/2211.15946v1](http://arxiv.org/abs/2211.15946v1)
+- 2022-11-28, **Sketch-and-solve approaches to k-means clustering by semidefinite programming**, Charles Clum et.al., Paper: [http://arxiv.org/abs/2211.15744v1](http://arxiv.org/abs/2211.15744v1), Code: **[https://github.com/kkylie/sketch-and-solve_kmeans](https://github.com/kkylie/sketch-and-solve_kmeans)**
+- 2022-11-28, **Boundary and bulk notions of transport in the AdS$_3$/CFT$_2$ correspondence**, Bowen Chen et.al., Paper: [http://arxiv.org/abs/2211.15684v1](http://arxiv.org/abs/2211.15684v1)
 - 2022-11-27, **Dynamic Kernel Sparsifiers**, Yichuan Deng et.al., Paper: [http://arxiv.org/abs/2211.14825v1](http://arxiv.org/abs/2211.14825v1)
 - 2022-11-26, **Sketch2FullStack: Generating Skeleton Code of Full Stack Website and Application from Sketch using Deep Learning and Computer Vision**, Somoy Subandhu Barua et.al., Paper: [http://arxiv.org/abs/2211.14607v1](http://arxiv.org/abs/2211.14607v1)
 - 2022-11-26, **Instance-level Heterogeneous Domain Adaptation for Limited-labeled Sketch-to-Photo Retrieval**, Fan Yang et.al., Paper: [http://arxiv.org/abs/2211.14515v1](http://arxiv.org/abs/2211.14515v1), Code: **[https://github.com/fandulu/IHDA](https://github.com/fandulu/IHDA)**
