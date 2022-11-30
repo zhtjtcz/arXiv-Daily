@@ -23,7 +23,7 @@
 |**2022-11-28**|**High-performance xPU Stencil Computations in Julia**|Samuel Omlin et.al.|[2211.15634v1](http://arxiv.org/abs/2211.15634v1)|null|
 |**2022-11-28**|**Non-ideal magnetohydrodynamics of self-gravitating filaments**|Nicol Gutiérrez-Vera et.al.|[2211.15615v1](http://arxiv.org/abs/2211.15615v1)|null|
 |**2022-11-28**|**Diffuse Emission of Galactic High-Energy Neutrinos from a Global Fit of Cosmic Rays**|Georg Schwefer et.al.|[2211.15607v1](http://arxiv.org/abs/2211.15607v1)|null|
-|**2022-11-28**|**Dynamic Equilibrium with Inisder Information and General Uninformed Agent Utility**|Jerome Detemple et.al.|[2211.15573v1](http://arxiv.org/abs/2211.15573v1)|null|
+|**2022-11-29**|**Dynamic Equilibrium with Insider Information and General Uninformed Agent Utility**|Jerome Detemple et.al.|[2211.15573v2](http://arxiv.org/abs/2211.15573v2)|null|
 |**2022-11-28**|**Fast non-Hermitian Toeplitz eigenvalue computations, joining matrix-less algorithms and FDE approximation matrices**|M. Bogoya et.al.|[2211.15506v1](http://arxiv.org/abs/2211.15506v1)|null|
 |**2022-11-28**|**How nanoporous silicon-polypyrrole hybrids flex their muscles in aqueous electrolytes: In operando high-resolution x-ray diffraction and electron tomography-based micromechanical computer simulations**|Manuel Brinker et.al.|[2211.15496v1](http://arxiv.org/abs/2211.15496v1)|null|
 |**2022-11-28**|**SILCC VII -- Gas kinematics and multiphase outflows of the simulated ISM at high gas surface densities**|Tim-Eric Rathjen et.al.|[2211.15419v1](http://arxiv.org/abs/2211.15419v1)|null|
