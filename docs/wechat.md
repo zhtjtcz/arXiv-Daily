@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-11-30, **Maximum Likelihood Estimation for a Markov-Modulated Jump-Diffusion Model**, Laura Eslava et.al., Paper: [http://arxiv.org/abs/2211.17220v1](http://arxiv.org/abs/2211.17220v1)
+- 2022-11-30, **Assisted RTF-Vector-Based Binaural Direction of Arrival Estimation Exploiting a Calibrated External Microphone Array**, Daniel Fejgin et.al., Paper: [http://arxiv.org/abs/2211.17202v1](http://arxiv.org/abs/2211.17202v1)
+- 2022-11-30, **Spin diffusion in perturbed isotropic Heisenberg spin chain**, S. Nandy et.al., Paper: [http://arxiv.org/abs/2211.17181v1](http://arxiv.org/abs/2211.17181v1)
+- 2022-11-30, **Carrier Recombination in Highly Uniform and Phase-Pure GaAs/(Al,Ga)As Core/Shell Nanowire Arrays on Si(111): Mott Transition and Internal Quantum Efficiency**, Miriam Oliva et.al., Paper: [http://arxiv.org/abs/2211.17167v1](http://arxiv.org/abs/2211.17167v1)
+- 2022-11-30, **Tumor growth with nutrients: stability of the tumor patches**, Inwon Kim et.al., Paper: [http://arxiv.org/abs/2211.17133v1](http://arxiv.org/abs/2211.17133v1)
+- 2022-11-30, **High-Fidelity Guided Image Synthesis with Latent Diffusion Models**, Jaskirat Singh et.al., Paper: [http://arxiv.org/abs/2211.17084v1](http://arxiv.org/abs/2211.17084v1)
+- 2022-11-30, **Diffuse gamma-ray emission in Cygnus X: Comments to Fornieri & Zhang 2022**, Huirong Yan et.al., Paper: [http://arxiv.org/abs/2211.17057v1](http://arxiv.org/abs/2211.17057v1)
+- 2022-11-30, **Infinite cycles in the interchange process in five dimensions**, Dor Elboim et.al., Paper: [http://arxiv.org/abs/2211.17023v1](http://arxiv.org/abs/2211.17023v1)
+- 2022-11-30, **DiffPose: Toward More Reliable 3D Pose Estimation**, Jia Gong et.al., Paper: [http://arxiv.org/abs/2211.16940v1](http://arxiv.org/abs/2211.16940v1)
+- 2022-11-30, **X-ray Performance of a Small Pixel Size sCMOS Sensor and the Effect of Depletion Depth**, Yu Hsiao et.al., Paper: [http://arxiv.org/abs/2211.16901v1](http://arxiv.org/abs/2211.16901v1)
 - 2022-11-29, **DiffPose: Multi-hypothesis Human Pose Estimation using Diffusion models**, Karl Holmquist et.al., Paper: [http://arxiv.org/abs/2211.16487v1](http://arxiv.org/abs/2211.16487v1)
 - 2022-11-29, **Retweets Distort Exposure to Polarized Information**, Ashwin Rao et.al., Paper: [http://arxiv.org/abs/2211.16480v1](http://arxiv.org/abs/2211.16480v1)
 - 2022-11-29, **NeuralLift-360: Lifting An In-the-wild 2D Photo to A 3D Object with 360° Views**, Dejia Xu et.al., Paper: [http://arxiv.org/abs/2211.16431v1](http://arxiv.org/abs/2211.16431v1)
@@ -160,6 +170,8 @@
 
 ## sketch
 
+- 2022-11-30, **CLIPascene: Scene Sketching with Different Types and Levels of Abstraction**, Yael Vinker et.al., Paper: [http://arxiv.org/abs/2211.17256v1](http://arxiv.org/abs/2211.17256v1)
+- 2022-11-30, **Linking Sketch Patches by Learning Synonymous Proximity for Graphic Sketch Representation**, Sicong Zang et.al., Paper: [http://arxiv.org/abs/2211.16841v1](http://arxiv.org/abs/2211.16841v1)
 - 2022-11-29, **Seven Concepts Attributed to Siméon-Denis Poisson**, Yvette Kosmann-Schwarzbach et.al., Paper: [http://arxiv.org/abs/2211.15946v1](http://arxiv.org/abs/2211.15946v1)
 - 2022-11-28, **Sketch-and-solve approaches to k-means clustering by semidefinite programming**, Charles Clum et.al., Paper: [http://arxiv.org/abs/2211.15744v1](http://arxiv.org/abs/2211.15744v1), Code: **[https://github.com/kkylie/sketch-and-solve_kmeans](https://github.com/kkylie/sketch-and-solve_kmeans)**
 - 2022-11-28, **Boundary and bulk notions of transport in the AdS$_3$/CFT$_2$ correspondence**, Bowen Chen et.al., Paper: [http://arxiv.org/abs/2211.15684v1](http://arxiv.org/abs/2211.15684v1)
