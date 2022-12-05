@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-12-02, **Diffuse $γ$-ray emission in Cygnus X: Comments to Yan & Pavaskar**, Ottavio Fornieri et.al., Paper: [http://arxiv.org/abs/2212.01333v1](http://arxiv.org/abs/2212.01333v1)
+- 2022-12-02, **From Turing patterns to chimera states in the 2D Brusselator model**, Astero Provata et.al., Paper: [http://arxiv.org/abs/2212.01297v1](http://arxiv.org/abs/2212.01297v1)
+- 2022-12-02, **A semiempirical approach to low-energy cosmic ray propagation in the diffuse interstellar medium**, Riccardo Franceschi et.al., Paper: [http://arxiv.org/abs/2212.01281v1](http://arxiv.org/abs/2212.01281v1)
+- 2022-12-02, **A $\sim$15 kpc Outflow Cone Piercing Through The Halo Of The Blue Compact Metal-poor Galaxy SBS0335-052**, E. C. Herenz et.al., Paper: [http://arxiv.org/abs/2212.01239v1](http://arxiv.org/abs/2212.01239v1)
+- 2022-12-02, **The Cauchy problem for an inviscid and non-diffusive Oldroyd-B model in two dimensions**, Yuanzhi Tu et.al., Paper: [http://arxiv.org/abs/2212.01212v1](http://arxiv.org/abs/2212.01212v1)
+- 2022-12-02, **DiffRF: Rendering-Guided 3D Radiance Field Diffusion**, Norman Müller et.al., Paper: [http://arxiv.org/abs/2212.01206v1](http://arxiv.org/abs/2212.01206v1)
+- 2022-12-02, **Non-thermal fixed points of universal sine-Gordon coarsening dynamics**, Philipp Heinen et.al., Paper: [http://arxiv.org/abs/2212.01162v1](http://arxiv.org/abs/2212.01162v1)
+- 2022-12-02, **High-Res Facial Appearance Capture from Polarized Smartphone Images**, Dejan Azinović et.al., Paper: [http://arxiv.org/abs/2212.01160v1](http://arxiv.org/abs/2212.01160v1)
+- 2022-12-02, **Upper limits on the isotropic diffuse flux of cosmic PeV photons from Carpet-2 observations**, D. D. Dzhappuev et.al., Paper: [http://arxiv.org/abs/2212.01088v1](http://arxiv.org/abs/2212.01088v1)
+- 2022-12-02, **Quantitative weak propagation of chaos for stable-driven McKean-Vlasov SDEs**, Thomas Cavallazzi et.al., Paper: [http://arxiv.org/abs/2212.01079v1](http://arxiv.org/abs/2212.01079v1)
 - 2022-12-01, **Unite and Conquer: Cross Dataset Multimodal Synthesis using Diffusion Models**, Nithin Gopalakrishnan Nair et.al., Paper: [http://arxiv.org/abs/2212.00793v1](http://arxiv.org/abs/2212.00793v1)
 - 2022-12-01, **SparseFusion: Distilling View-conditioned Diffusion for 3D Reconstruction**, Zhizhuo Zhou et.al., Paper: [http://arxiv.org/abs/2212.00792v1](http://arxiv.org/abs/2212.00792v1)
 - 2022-12-01, **Multi-Class Segmentation from Aerial Views using Recursive Noise Diffusion**, Benedikt Kolbeinsson et.al., Paper: [http://arxiv.org/abs/2212.00787v1](http://arxiv.org/abs/2212.00787v1)
