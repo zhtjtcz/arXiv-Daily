@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
+|**2022-12-06**|**The softness diagram for MaNGA star-forming regions: diffuse ionized gas contamination or local HOLMES predominance?**|Enrique Pérez-Montero et.al.|[2212.03216v1](http://arxiv.org/abs/2212.03216v1)|null|
+|**2022-12-06**|**Steady states of the Parker instability**|Devika Tharakkal et.al.|[2212.03215v1](http://arxiv.org/abs/2212.03215v1)|null|
+|**2022-12-06**|**Rethinking the Objectives of Vector-Quantized Tokenizers for Image Synthesis**|Yuchao Gu et.al.|[2212.03185v1](http://arxiv.org/abs/2212.03185v1)|null|
+|**2022-12-06**|**Conditions for the propulsion of a colloid surrounded by a mesoscale phase separation**|Jeanne Decayeux et.al.|[2212.03153v1](http://arxiv.org/abs/2212.03153v1)|null|
+|**2022-12-06**|**How does the partition of unity influence SORAS preconditioner?**|Marcella Bonazzoli et.al.|[2212.03132v1](http://arxiv.org/abs/2212.03132v1)|null|
+|**2022-12-06**|**Semantic-Conditional Diffusion Networks for Image Captioning**|Jianjie Luo et.al.|[2212.03099v1](http://arxiv.org/abs/2212.03099v1)|**[link](https://github.com/yehli/xmodaler)**|
+|**2022-12-06**|**Denoising diffusion probabilistic models for probabilistic energy forecasting**|Esteban Hernandez et.al.|[2212.02977v1](http://arxiv.org/abs/2212.02977v1)|null|
+|**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|null|
+|**2022-12-06**|**M-VADER: A Model for Diffusion with Multimodal Context**|Samuel Weinbach et.al.|[2212.02936v1](http://arxiv.org/abs/2212.02936v1)|null|
 |**2022-12-05**|**PhysDiff: Physics-Guided Human Motion Diffusion Model**|Ye Yuan et.al.|[2212.02500v1](http://arxiv.org/abs/2212.02500v1)|null|
 |**2022-12-05**|**TIDE: Time Derivative Diffusion for Deep Learning on Graphs**|Maximilian Krahn et.al.|[2212.02483v1](http://arxiv.org/abs/2212.02483v1)|null|
 |**2022-12-05**|**Robust, strong form mechanics on an adaptive structured grid: efficiently solving variable-geometry near-singular problems with diffuse interfaces**|Vinamra Agrawal et.al.|[2212.02362v1](http://arxiv.org/abs/2212.02362v1)|null|
@@ -204,6 +214,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-05**|**Spuriosity Rankings: Sorting Data for Spurious Correlation Robustness**|Mazda Moayeri et.al.|[2212.02648v1](http://arxiv.org/abs/2212.02648v1)|null|
+|**2022-12-05**|**INCLUSIFY: A benchmark and a model for gender-inclusive German**|David Pomerenke et.al.|[2212.02564v1](http://arxiv.org/abs/2212.02564v1)|null|
 |**2022-12-01**|**Multimodal Query-guided Object Localization**|Aditay Tripathi et.al.|[2212.00749v1](http://arxiv.org/abs/2212.00749v1)|null|
 |**2022-12-01**|**Signal processing with optical quadratic random sketches**|Rémi Delogne et.al.|[2212.00660v1](http://arxiv.org/abs/2212.00660v1)|null|
 |**2022-12-01**|**Flow map parameterization methods for invariant tori in quasi-periodic Hamiltonian systems**|Álvaro Fernández et.al.|[2212.00412v1](http://arxiv.org/abs/2212.00412v1)|null|
