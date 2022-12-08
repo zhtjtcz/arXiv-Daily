@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-07**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v1](http://arxiv.org/abs/2212.03860v1)|null|
+|**2022-12-07**|**Coherent temperature-wave generation in SrTiO$_3$ by stimulated light-scattering**|Akitoshi Koreeda et.al.|[2212.03745v1](http://arxiv.org/abs/2212.03745v1)|null|
+|**2022-12-07**|**Magic: Multi Art Genre Intelligent Choreography Dataset and Network for 3D Dance Generation**|Ronghui Li et.al.|[2212.03741v1](http://arxiv.org/abs/2212.03741v1)|null|
+|**2022-12-07**|**Analysis of a one dimensional energy dissipating free boundary model with nonlinear boundary conditions. Existence of global weak solutions**|Benoît Merlet et.al.|[2212.03642v1](http://arxiv.org/abs/2212.03642v1)|null|
+|**2022-12-07**|**One Sample Diffusion Model in Projection Domain for Low-Dose CT Imaging**|Bin Huang et.al.|[2212.03630v1](http://arxiv.org/abs/2212.03630v1)|null|
+|**2022-12-07**|**Dynamics of self-propelled tracer particles inside a polymer network**|Praveen Kumar et.al.|[2212.03626v1](http://arxiv.org/abs/2212.03626v1)|null|
+|**2022-12-07**|**Self-bound clusters of one-dimensional fermionic mixtures**|M. C. Gordillo et.al.|[2212.03610v1](http://arxiv.org/abs/2212.03610v1)|null|
+|**2022-12-07**|**A high resolution study of near-IR diffuse interstellar bands, search for small scale structure, time variability and stellar features**|J. V. Smoker et.al.|[2212.03563v1](http://arxiv.org/abs/2212.03563v1)|null|
+|**2022-12-07**|**Mechanism of Spin Scattering in Ta investigated by Scanning Inverse Spin Hall Effect Meters**|Peiwen Luo et.al.|[2212.03556v1](http://arxiv.org/abs/2212.03556v1)|null|
+|**2022-12-07**|**Global well-posedness and convergence to equilibrium for the Abels-Garcke-Grün model with nonlocal free energy**|Ciprian G. Gal et.al.|[2212.03512v1](http://arxiv.org/abs/2212.03512v1)|null|
 |**2022-12-06**|**ADIR: Adaptive Diffusion for Image Reconstruction**|Shady Abu-Hussein et.al.|[2212.03221v1](http://arxiv.org/abs/2212.03221v1)|null|
 |**2022-12-06**|**The softness diagram for MaNGA star-forming regions: diffuse ionized gas contamination or local HOLMES predominance?**|Enrique Pérez-Montero et.al.|[2212.03216v1](http://arxiv.org/abs/2212.03216v1)|null|
 |**2022-12-06**|**Steady states of the Parker instability**|Devika Tharakkal et.al.|[2212.03215v1](http://arxiv.org/abs/2212.03215v1)|null|
@@ -214,6 +224,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-07**|**The Branch-cut Cosmology: A topological canonical quantum approach**|Peter O. Hess et.al.|[2212.03832v1](http://arxiv.org/abs/2212.03832v1)|null|
 |**2022-12-05**|**Spuriosity Rankings: Sorting Data for Spurious Correlation Robustness**|Mazda Moayeri et.al.|[2212.02648v1](http://arxiv.org/abs/2212.02648v1)|null|
 |**2022-12-05**|**INCLUSIFY: A benchmark and a model for gender-inclusive German**|David Pomerenke et.al.|[2212.02564v1](http://arxiv.org/abs/2212.02564v1)|null|
 |**2022-12-01**|**Multimodal Query-guided Object Localization**|Aditay Tripathi et.al.|[2212.00749v1](http://arxiv.org/abs/2212.00749v1)|null|
