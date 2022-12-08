@@ -24,9 +24,9 @@
 |**2022-12-06**|**Conditions for the propulsion of a colloid surrounded by a mesoscale phase separation**|Jeanne Decayeux et.al.|[2212.03153v1](http://arxiv.org/abs/2212.03153v1)|null|
 |**2022-12-06**|**How does the partition of unity influence SORAS preconditioner?**|Marcella Bonazzoli et.al.|[2212.03132v1](http://arxiv.org/abs/2212.03132v1)|null|
 |**2022-12-06**|**Semantic-Conditional Diffusion Networks for Image Captioning**|Jianjie Luo et.al.|[2212.03099v1](http://arxiv.org/abs/2212.03099v1)|**[link](https://github.com/yehli/xmodaler)**|
-|**2022-12-06**|**Denoising diffusion probabilistic models for probabilistic energy forecasting**|Esteban Hernandez et.al.|[2212.02977v1](http://arxiv.org/abs/2212.02977v1)|null|
+|**2022-12-07**|**Denoising diffusion probabilistic models for probabilistic energy forecasting**|Esteban Hernandez Capel et.al.|[2212.02977v2](http://arxiv.org/abs/2212.02977v2)|null|
 |**2022-12-06**|**SDM: Spatial Diffusion Model for Large Hole Image Inpainting**|Wenbo Li et.al.|[2212.02963v1](http://arxiv.org/abs/2212.02963v1)|null|
-|**2022-12-06**|**M-VADER: A Model for Diffusion with Multimodal Context**|Samuel Weinbach et.al.|[2212.02936v1](http://arxiv.org/abs/2212.02936v1)|null|
+|**2022-12-07**|**M-VADER: A Model for Diffusion with Multimodal Context**|Samuel Weinbach et.al.|[2212.02936v2](http://arxiv.org/abs/2212.02936v2)|null|
 |**2022-12-05**|**PhysDiff: Physics-Guided Human Motion Diffusion Model**|Ye Yuan et.al.|[2212.02500v1](http://arxiv.org/abs/2212.02500v1)|null|
 |**2022-12-05**|**TIDE: Time Derivative Diffusion for Deep Learning on Graphs**|Maximilian Krahn et.al.|[2212.02483v1](http://arxiv.org/abs/2212.02483v1)|null|
 |**2022-12-05**|**Robust, strong form mechanics on an adaptive structured grid: efficiently solving variable-geometry near-singular problems with diffuse interfaces**|Vinamra Agrawal et.al.|[2212.02362v1](http://arxiv.org/abs/2212.02362v1)|null|
