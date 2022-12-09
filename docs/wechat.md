@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-12-08, **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis**, Rishabh Dabral et.al., Paper: [http://arxiv.org/abs/2212.04495v1](http://arxiv.org/abs/2212.04495v1)
+- 2022-12-08, **SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2212.04493v1](http://arxiv.org/abs/2212.04493v1)
+- 2022-12-08, **SINE: SINgle Image Editing with Text-to-Image Diffusion Models**, Zhixing Zhang et.al., Paper: [http://arxiv.org/abs/2212.04489v1](http://arxiv.org/abs/2212.04489v1), Code: **[https://github.com/zhang-zx/sine](https://github.com/zhang-zx/sine)**
+- 2022-12-08, **Multi-Concept Customization of Text-to-Image Diffusion**, Nupur Kumari et.al., Paper: [http://arxiv.org/abs/2212.04488v1](http://arxiv.org/abs/2212.04488v1)
+- 2022-12-08, **Fresnel Microfacet BRDF: Unification of Polari-Radiometric Surface-Body Reflection**, Tomoki Ichikawa et.al., Paper: [http://arxiv.org/abs/2212.04483v1](http://arxiv.org/abs/2212.04483v1)
+- 2022-12-08, **Diffusion Guided Domain Adaptation of Image Generators**, Kunpeng Song et.al., Paper: [http://arxiv.org/abs/2212.04473v1](http://arxiv.org/abs/2212.04473v1)
+- 2022-12-08, **Dilute neutron star matter from neural-network quantum states**, Bryce Fore et.al., Paper: [http://arxiv.org/abs/2212.04436v1](http://arxiv.org/abs/2212.04436v1)
+- 2022-12-08, **Forced waves of a three species predator-prey system with a pair of weak-strong competing preys in a shifting environment**, Thomas Giletti et.al., Paper: [http://arxiv.org/abs/2212.04301v1](http://arxiv.org/abs/2212.04301v1)
+- 2022-12-08, **Theoretical derivation of diffusion-tensor coefficients for the transport of charged particles in magnetic fields**, Olivier Deligny et.al., Paper: [http://arxiv.org/abs/2212.04222v1](http://arxiv.org/abs/2212.04222v1)
+- 2022-12-08, **Spin Relaxation, Diffusion and Edelstein Effect in Chiral Metal Surface**, Yuta Suzuki et.al., Paper: [http://arxiv.org/abs/2212.04202v1](http://arxiv.org/abs/2212.04202v1)
 - 2022-12-08, **Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**, Gowthami Somepalli et.al., Paper: [http://arxiv.org/abs/2212.03860v2](http://arxiv.org/abs/2212.03860v2)
 - 2022-12-07, **Coherent temperature-wave generation in SrTiO$_3$ by stimulated light-scattering**, Akitoshi Koreeda et.al., Paper: [http://arxiv.org/abs/2212.03745v1](http://arxiv.org/abs/2212.03745v1)
 - 2022-12-08, **Magic: Multi Art Genre Intelligent Choreography Dataset and Network for 3D Dance Generation**, Ronghui Li et.al., Paper: [http://arxiv.org/abs/2212.03741v2](http://arxiv.org/abs/2212.03741v2)
@@ -220,6 +230,8 @@
 
 ## sketch
 
+- 2022-12-08, **A paradigm shift in neuroscience driven by big data: State of art, challenges, and proof of concept**, Zi-Xuan Zhou et.al., Paper: [http://arxiv.org/abs/2212.04195v1](http://arxiv.org/abs/2212.04195v1)
+- 2022-12-07, **The Physics of Fast Radio Bursts**, Bing Zhang et.al., Paper: [http://arxiv.org/abs/2212.03972v1](http://arxiv.org/abs/2212.03972v1)
 - 2022-12-07, **The Branch-cut Cosmology: A topological canonical quantum approach**, Peter O. Hess et.al., Paper: [http://arxiv.org/abs/2212.03832v1](http://arxiv.org/abs/2212.03832v1)
 - 2022-12-05, **Spuriosity Rankings: Sorting Data for Spurious Correlation Robustness**, Mazda Moayeri et.al., Paper: [http://arxiv.org/abs/2212.02648v1](http://arxiv.org/abs/2212.02648v1)
 - 2022-12-05, **INCLUSIFY: A benchmark and a model for gender-inclusive German**, David Pomerenke et.al., Paper: [http://arxiv.org/abs/2212.02564v1](http://arxiv.org/abs/2212.02564v1)
