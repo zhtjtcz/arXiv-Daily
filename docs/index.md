@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2022.12.08
+## Updated on 2022.12.09
 
 <details>
   <summary>Table of Contents</summary>
@@ -222,7 +222,7 @@ layout: default
 |**2022-11-09**|**Randomization of Short-Rate Models, Analytic Pricing and Flexibility in Controlling Implied Volatilities**|Lech A. Grzelak et.al.|[2211.05014v1](http://arxiv.org/abs/2211.05014v1)|null|
 |**2022-11-10**|**A pre-time-zero spatiotemporal microscopy technique for the ultrasensitive determination of the thermal diffusivity of thin films**|Sebin Varghese et.al.|[2211.04999v2](http://arxiv.org/abs/2211.04999v2)|null|
 
-<p align=right>(<a href=#Updated-on-20221208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221209>back to top</a>)</p>
 
 ## sketch
 
@@ -283,7 +283,7 @@ layout: default
 |**2022-11-06**|**The effect of the processing and measurement operators on the expressive power of quantum models**|Aikaterini et.al.|[2211.03101v1](http://arxiv.org/abs/2211.03101v1)|**[link](https://github.com/katerinagratsea/teacher-student_scheme-part-2)**|
 |**2022-11-05**|**Further investigations on certain star selection principles**|Debraj Chandra et.al.|[2211.02962v1](http://arxiv.org/abs/2211.02962v1)|null|
 
-<p align=right>(<a href=#Updated-on-20221208>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20221209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
