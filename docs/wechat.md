@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-12-09, **Non-stationary thermophysical characterization of exfoliated graphite with carbon nanotubes composites**, N. V. Morozovsky et.al., Paper: [http://arxiv.org/abs/2212.05036v1](http://arxiv.org/abs/2212.05036v1)
+- 2022-12-09, **SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**, Shaoan Xie et.al., Paper: [http://arxiv.org/abs/2212.05034v1](http://arxiv.org/abs/2212.05034v1)
+- 2022-12-09, **Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**, Weixi Feng et.al., Paper: [http://arxiv.org/abs/2212.05032v1](http://arxiv.org/abs/2212.05032v1), Code: **[https://github.com/weixi-feng/structured-diffusion-guidance](https://github.com/weixi-feng/structured-diffusion-guidance)**
+- 2022-12-09, **2D interfacial diffusion model of inhibitory synaptic receptor dynamics**, Paul C Bressloff et.al., Paper: [http://arxiv.org/abs/2212.05010v1](http://arxiv.org/abs/2212.05010v1)
+- 2022-12-09, **Evaluation of methods for the determination of tortuosity of Li-ion battery separators**, Wei Sun et.al., Paper: [http://arxiv.org/abs/2212.04988v1](http://arxiv.org/abs/2212.04988v1)
+- 2022-12-09, **Salt fingering staircases and the three-component Phillips effect**, Paul Pružina et.al., Paper: [http://arxiv.org/abs/2212.04941v1](http://arxiv.org/abs/2212.04941v1)
+- 2022-12-09, **Diffusion and robustness of boundary feedback stabilization of hyperbolic systems**, Georges Bastin et.al., Paper: [http://arxiv.org/abs/2212.04879v1](http://arxiv.org/abs/2212.04879v1)
+- 2022-12-09, **Exploration of growth conditions of TaAs Weyl semimetal thin film by pulsed laser deposition**, Shien Li et.al., Paper: [http://arxiv.org/abs/2212.04803v1](http://arxiv.org/abs/2212.04803v1)
+- 2022-12-09, **Wasserstein distance estimates for jump-diffusion processes**, Jean-Christophe Breton et.al., Paper: [http://arxiv.org/abs/2212.04766v1](http://arxiv.org/abs/2212.04766v1)
+- 2022-12-09, **Fluctuations of Rare Event Simulation with Monte Carlo Splitting in the Small Noise Asymptotics**, Frédéric Cérou et.al., Paper: [http://arxiv.org/abs/2212.04750v1](http://arxiv.org/abs/2212.04750v1)
 - 2022-12-08, **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis**, Rishabh Dabral et.al., Paper: [http://arxiv.org/abs/2212.04495v1](http://arxiv.org/abs/2212.04495v1)
 - 2022-12-08, **SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation**, Yen-Chi Cheng et.al., Paper: [http://arxiv.org/abs/2212.04493v1](http://arxiv.org/abs/2212.04493v1)
 - 2022-12-08, **SINE: SINgle Image Editing with Text-to-Image Diffusion Models**, Zhixing Zhang et.al., Paper: [http://arxiv.org/abs/2212.04489v1](http://arxiv.org/abs/2212.04489v1), Code: **[https://github.com/zhang-zx/sine](https://github.com/zhang-zx/sine)**
@@ -230,6 +240,9 @@
 
 ## sketch
 
+- 2022-12-09, **Regulating Gatekeeper AI and Data: Transparency, Access, and Fairness under the DMA, the GDPR, and beyond**, Philipp Hacker et.al., Paper: [http://arxiv.org/abs/2212.04997v1](http://arxiv.org/abs/2212.04997v1)
+- 2022-12-09, **DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**, Zhongxiang Wei et.al., Paper: [http://arxiv.org/abs/2212.04816v1](http://arxiv.org/abs/2212.04816v1)
+- 2022-12-08, **A Proof of Concept for Matchete: An Automated Tool for Matching Effective Theories**, Javier Fuentes-Martín et.al., Paper: [http://arxiv.org/abs/2212.04510v1](http://arxiv.org/abs/2212.04510v1)
 - 2022-12-08, **A paradigm shift in neuroscience driven by big data: State of art, challenges, and proof of concept**, Zi-Xuan Zhou et.al., Paper: [http://arxiv.org/abs/2212.04195v1](http://arxiv.org/abs/2212.04195v1)
 - 2022-12-07, **The Physics of Fast Radio Bursts**, Bing Zhang et.al., Paper: [http://arxiv.org/abs/2212.03972v1](http://arxiv.org/abs/2212.03972v1)
 - 2022-12-07, **The Branch-cut Cosmology: A topological canonical quantum approach**, Peter O. Hess et.al., Paper: [http://arxiv.org/abs/2212.03832v1](http://arxiv.org/abs/2212.03832v1)
