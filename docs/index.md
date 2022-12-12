@@ -26,9 +26,9 @@ layout: default
 |**2022-12-08**|**SINE: SINgle Image Editing with Text-to-Image Diffusion Models**|Zhixing Zhang et.al.|[2212.04489v1](http://arxiv.org/abs/2212.04489v1)|**[link](https://github.com/zhang-zx/sine)**|
 |**2022-12-08**|**Multi-Concept Customization of Text-to-Image Diffusion**|Nupur Kumari et.al.|[2212.04488v1](http://arxiv.org/abs/2212.04488v1)|null|
 |**2022-12-08**|**Fresnel Microfacet BRDF: Unification of Polari-Radiometric Surface-Body Reflection**|Tomoki Ichikawa et.al.|[2212.04483v1](http://arxiv.org/abs/2212.04483v1)|null|
-|**2022-12-08**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v1](http://arxiv.org/abs/2212.04473v1)|null|
+|**2022-12-09**|**Diffusion Guided Domain Adaptation of Image Generators**|Kunpeng Song et.al.|[2212.04473v2](http://arxiv.org/abs/2212.04473v2)|null|
 |**2022-12-08**|**Dilute neutron star matter from neural-network quantum states**|Bryce Fore et.al.|[2212.04436v1](http://arxiv.org/abs/2212.04436v1)|null|
-|**2022-12-08**|**Forced waves of a three species predator-prey system with a pair of weak-strong competing preys in a shifting environment**|Thomas Giletti et.al.|[2212.04301v1](http://arxiv.org/abs/2212.04301v1)|null|
+|**2022-12-09**|**Forced waves of a three species predator-prey system with a pair of weak-strong competing preys in a shifting environment**|Thomas Giletti et.al.|[2212.04301v2](http://arxiv.org/abs/2212.04301v2)|null|
 |**2022-12-08**|**Theoretical derivation of diffusion-tensor coefficients for the transport of charged particles in magnetic fields**|Olivier Deligny et.al.|[2212.04222v1](http://arxiv.org/abs/2212.04222v1)|null|
 |**2022-12-08**|**Spin Relaxation, Diffusion and Edelstein Effect in Chiral Metal Surface**|Yuta Suzuki et.al.|[2212.04202v1](http://arxiv.org/abs/2212.04202v1)|null|
 |**2022-12-08**|**Diffusion Art or Digital Forgery? Investigating Data Replication in Diffusion Models**|Gowthami Somepalli et.al.|[2212.03860v2](http://arxiv.org/abs/2212.03860v2)|null|
