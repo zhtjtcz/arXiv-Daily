@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-12**|**Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion**|Tengfei Wang et.al.|[2212.06135v1](http://arxiv.org/abs/2212.06135v1)|null|
+|**2022-12-12**|**The Stable Artist: Steering Semantics in Diffusion Latent Space**|Manuel Brack et.al.|[2212.06013v1](http://arxiv.org/abs/2212.06013v1)|**[link](https://github.com/ml-research/semantic-image-editing)**|
+|**2022-12-12**|**Dirichlet-Survival Process: Scalable Inference of Topic-Dependent Diffusion Networks**|Gaël Poux-Médard et.al.|[2212.05996v1](http://arxiv.org/abs/2212.05996v1)|null|
+|**2022-12-12**|**Generative Scene Synthesis via Incremental View Inpainting using RGBD Diffusion Models**|Jiabao Lei et.al.|[2212.05993v1](http://arxiv.org/abs/2212.05993v1)|null|
+|**2022-12-12**|**Interstellar Polarization Survey II: General Interstellar Medium**|M. J. F. Versteeg et.al.|[2212.05985v1](http://arxiv.org/abs/2212.05985v1)|null|
+|**2022-12-12**|**Towards Practical Plug-and-Play Diffusion Models**|Hyojun Go et.al.|[2212.05973v1](http://arxiv.org/abs/2212.05973v1)|null|
+|**2022-12-12**|**Scalable Recovery-based Adaptation on Quadtree Meshes for Advection-Diffusion-Reaction Problems**|Pasquale Claudio Africa et.al.|[2212.05945v1](http://arxiv.org/abs/2212.05945v1)|null|
+|**2022-12-12**|**Diff-Font: Diffusion Model for Robust One-Shot Font Generation**|Haibin He et.al.|[2212.05895v1](http://arxiv.org/abs/2212.05895v1)|null|
+|**2022-12-12**|**Nonequilibrium thermodynamics of DNA nanopore unzipping**|Antonio Suma et.al.|[2212.05882v1](http://arxiv.org/abs/2212.05882v1)|null|
+|**2022-12-12**|**Concentration and non-concentration of eigenfunctions of second-order elliptic operators in layered media**|Yves Dermenjian et.al.|[2212.05872v1](http://arxiv.org/abs/2212.05872v1)|null|
 |**2022-12-09**|**Non-stationary thermophysical characterization of exfoliated graphite with carbon nanotubes composites**|N. V. Morozovsky et.al.|[2212.05036v1](http://arxiv.org/abs/2212.05036v1)|null|
 |**2022-12-09**|**SmartBrush: Text and Shape Guided Object Inpainting with Diffusion Model**|Shaoan Xie et.al.|[2212.05034v1](http://arxiv.org/abs/2212.05034v1)|null|
 |**2022-12-09**|**Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis**|Weixi Feng et.al.|[2212.05032v1](http://arxiv.org/abs/2212.05032v1)|**[link](https://github.com/weixi-feng/structured-diffusion-guidance)**|
@@ -244,6 +254,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-12**|**A novel feature-scrambling approach reveals the capacity of convolutional neural networks to learn spatial relations**|Amr Farahat et.al.|[2212.06021v1](http://arxiv.org/abs/2212.06021v1)|null|
+|**2022-12-12**|**Interactive introduction to self-calibrating interfaces**|Jonathan Grizou et.al.|[2212.05766v1](http://arxiv.org/abs/2212.05766v1)|null|
 |**2022-12-09**|**Regulating Gatekeeper AI and Data: Transparency, Access, and Fairness under the DMA, the GDPR, and beyond**|Philipp Hacker et.al.|[2212.04997v1](http://arxiv.org/abs/2212.04997v1)|null|
 |**2022-12-09**|**DUNE: Improving Accuracy for Sketch-INT Network Measurement Systems**|Zhongxiang Wei et.al.|[2212.04816v1](http://arxiv.org/abs/2212.04816v1)|null|
 |**2022-12-08**|**A Proof of Concept for Matchete: An Automated Tool for Matching Effective Theories**|Javier Fuentes-Martín et.al.|[2212.04510v1](http://arxiv.org/abs/2212.04510v1)|**[link](https://gitlab.com/matchete/matchete)**|
