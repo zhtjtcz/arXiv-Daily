@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-13**|**Semantic Brain Decoding: from fMRI to conceptually similar image reconstruction of visual stimuli**|Matteo Ferrante et.al.|[2212.06726v1](http://arxiv.org/abs/2212.06726v1)|null|
+|**2022-12-13**|**Pushed fronts in a Fisher-KPP-Burgers system using geometric desingularization**|Matt Holzer et.al.|[2212.06724v1](http://arxiv.org/abs/2212.06724v1)|null|
+|**2022-12-13**|**On a Navier-Stokes-Cahn-Hilliard System for Viscous Incompressible Two-phase Flow with Chemotaxis, Active Transport and Reaction**|Jingning He et.al.|[2212.06613v1](http://arxiv.org/abs/2212.06613v1)|null|
+|**2022-12-13**|**The steady states of strong-KPP reactions in general domains**|Henri Berestycki et.al.|[2212.06611v1](http://arxiv.org/abs/2212.06611v1)|null|
+|**2022-12-13**|**Diffusion of cosmic-ray electrons in M 51 observed with LOFAR at 54 MHz**|V. Heesen et.al.|[2212.06585v1](http://arxiv.org/abs/2212.06585v1)|null|
+|**2022-12-13**|**DifFace: Blind Face Restoration with Diffused Error Contraction**|Zongsheng Yue et.al.|[2212.06512v1](http://arxiv.org/abs/2212.06512v1)|**[link](https://github.com/zsyoaoa/difface)**|
+|**2022-12-13**|**Random matrices with row constraints and eigenvalue distributions of graph Laplacians**|Pawat Akara-pipattana et.al.|[2212.06499v1](http://arxiv.org/abs/2212.06499v1)|null|
+|**2022-12-13**|**Xylem embolism and bubble formation during freezing suggest complex dynamics of pressure-tension in Betula pendula stems**|Katline Charra-Vaskou et.al.|[2212.06490v1](http://arxiv.org/abs/2212.06490v1)|null|
+|**2022-12-13**|**HS-Diffusion: Learning a Semantic-Guided Diffusion Model for Head Swapping**|Qinghe Wang et.al.|[2212.06458v1](http://arxiv.org/abs/2212.06458v1)|null|
+|**2022-12-13**|**Demonstration of Weak-Link Physics in the Dynamical Response of Transition-Edge Sensors**|Marios Kounalakis et.al.|[2212.06443v1](http://arxiv.org/abs/2212.06443v1)|null|
 |**2022-12-12**|**Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion**|Tengfei Wang et.al.|[2212.06135v1](http://arxiv.org/abs/2212.06135v1)|null|
 |**2022-12-12**|**The Stable Artist: Steering Semantics in Diffusion Latent Space**|Manuel Brack et.al.|[2212.06013v1](http://arxiv.org/abs/2212.06013v1)|**[link](https://github.com/ml-research/semantic-image-editing)**|
 |**2022-12-12**|**Dirichlet-Survival Process: Scalable Inference of Topic-Dependent Diffusion Networks**|Gaël Poux-Médard et.al.|[2212.05996v1](http://arxiv.org/abs/2212.05996v1)|null|
@@ -254,6 +264,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-13**|**A fast and Accurate Sketch Method for Estimating User Similarities over Trajectory Data**|Hua Wang et.al.|[2212.06601v1](http://arxiv.org/abs/2212.06601v1)|null|
+|**2022-12-13**|**Streaming Euclidean MST to a Constant Factor**|Vincent Cohen-Addad et.al.|[2212.06546v1](http://arxiv.org/abs/2212.06546v1)|null|
+|**2022-12-12**|**Primary Observables for Indirect Searches at Colliders**|Spencer Chang et.al.|[2212.06215v1](http://arxiv.org/abs/2212.06215v1)|null|
 |**2022-12-12**|**A novel feature-scrambling approach reveals the capacity of convolutional neural networks to learn spatial relations**|Amr Farahat et.al.|[2212.06021v1](http://arxiv.org/abs/2212.06021v1)|null|
 |**2022-12-12**|**Interactive introduction to self-calibrating interfaces**|Jonathan Grizou et.al.|[2212.05766v1](http://arxiv.org/abs/2212.05766v1)|null|
 |**2022-12-09**|**Regulating Gatekeeper AI and Data: Transparency, Access, and Fairness under the DMA, the GDPR, and beyond**|Philipp Hacker et.al.|[2212.04997v1](http://arxiv.org/abs/2212.04997v1)|null|
