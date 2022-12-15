@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**Theoretical Investigation of Charge Transfer Between Two Defects in a Wide-Bandgap Semiconductor**|Rodrick Kuate Defo et.al.|[2212.07402v1](http://arxiv.org/abs/2212.07402v1)|null|
+|**2022-12-14**|**Convection-induced compositional patterning at grain boundaries in irradiated alloys**|G. F. Bouobda Moladje et.al.|[2212.07357v1](http://arxiv.org/abs/2212.07357v1)|null|
+|**2022-12-14**|**Bi-Noising Diffusion: Towards Conditional Diffusion Models with Generative Restoration Priors**|Kangfu Mei et.al.|[2212.07352v1](http://arxiv.org/abs/2212.07352v1)|null|
+|**2022-12-14**|**Stability and diffusion of oxygen vacancies in LaNiO$_3$: a DMFT study**|Uthpala Herath et.al.|[2212.07348v1](http://arxiv.org/abs/2212.07348v1)|null|
+|**2022-12-14**|**A data-driven physics-based transport model of solar energetic particles accelerated by coronal mass ejection shocks propagating through the solar coronal and heliospheric magnetic fields**|Ming Zhang et.al.|[2212.07259v1](http://arxiv.org/abs/2212.07259v1)|null|
+|**2022-12-14**|**A Conservative Galerkin Solver for the Quasilinear Diffusion Model in Magnetized Plasmas**|Kun Huang et.al.|[2212.07229v1](http://arxiv.org/abs/2212.07229v1)|null|
+|**2022-12-14**|**Global pathwise weak solutions for 2D stochastic Keller-Segel-Navier-Stokes system of consumption type**|Lei Zhang et.al.|[2212.07217v1](http://arxiv.org/abs/2212.07217v1)|null|
+|**2022-12-14**|**Kinetics and steady state of polar flock with birth and death**|Pratikshya Jena et.al.|[2212.07191v1](http://arxiv.org/abs/2212.07191v1)|null|
+|**2022-12-14**|**Structure and dynamics investigations of a partially hydrogenated graphene/Ni(111) surface**|Emanuel Bahn et.al.|[2212.07159v1](http://arxiv.org/abs/2212.07159v1)|null|
+|**2022-12-14**|**Searches for ultra-high energy photons and neutrinos with the Pierre Auger Observatory**|Nicolás Martín González et.al.|[2212.07139v1](http://arxiv.org/abs/2212.07139v1)|null|
 |**2022-12-13**|**Semantic Brain Decoding: from fMRI to conceptually similar image reconstruction of visual stimuli**|Matteo Ferrante et.al.|[2212.06726v1](http://arxiv.org/abs/2212.06726v1)|null|
 |**2022-12-13**|**Pushed fronts in a Fisher-KPP-Burgers system using geometric desingularization**|Matt Holzer et.al.|[2212.06724v1](http://arxiv.org/abs/2212.06724v1)|null|
 |**2022-12-13**|**On a Navier-Stokes-Cahn-Hilliard System for Viscous Incompressible Two-phase Flow with Chemotaxis, Active Transport and Reaction**|Jingning He et.al.|[2212.06613v1](http://arxiv.org/abs/2212.06613v1)|null|
@@ -264,6 +274,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-14**|**How Researchers Could Obtain Quick and Cheap User Feedback on their Algorithms Without Having to Operate their Own Recommender System**|Tobias Eichinger et.al.|[2212.07177v1](http://arxiv.org/abs/2212.07177v1)|null|
+|**2022-12-14**|**Accessible categories with a class of limits**|Stephen Lack et.al.|[2212.07135v1](http://arxiv.org/abs/2212.07135v1)|null|
+|**2022-12-14**|**Modelling Biological and Ecological Systems with the Calculus of Wrapped Compartments**|Marco Aldinucci et.al.|[2212.07105v1](http://arxiv.org/abs/2212.07105v1)|null|
+|**2022-12-14**|**Interactive Sketching of Mannequin Poses**|Gizem Unlu et.al.|[2212.07098v1](http://arxiv.org/abs/2212.07098v1)|null|
 |**2022-12-13**|**A fast and Accurate Sketch Method for Estimating User Similarities over Trajectory Data**|Hua Wang et.al.|[2212.06601v1](http://arxiv.org/abs/2212.06601v1)|null|
 |**2022-12-13**|**Streaming Euclidean MST to a Constant Factor**|Vincent Cohen-Addad et.al.|[2212.06546v1](http://arxiv.org/abs/2212.06546v1)|null|
 |**2022-12-12**|**Primary Observables for Indirect Searches at Colliders**|Spencer Chang et.al.|[2212.06215v1](http://arxiv.org/abs/2212.06215v1)|null|
