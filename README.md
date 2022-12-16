@@ -24,7 +24,7 @@
 |**2022-12-14**|**A data-driven physics-based transport model of solar energetic particles accelerated by coronal mass ejection shocks propagating through the solar coronal and heliospheric magnetic fields**|Ming Zhang et.al.|[2212.07259v1](http://arxiv.org/abs/2212.07259v1)|null|
 |**2022-12-14**|**A Conservative Galerkin Solver for the Quasilinear Diffusion Model in Magnetized Plasmas**|Kun Huang et.al.|[2212.07229v1](http://arxiv.org/abs/2212.07229v1)|null|
 |**2022-12-14**|**Global pathwise weak solutions for 2D stochastic Keller-Segel-Navier-Stokes system of consumption type**|Lei Zhang et.al.|[2212.07217v1](http://arxiv.org/abs/2212.07217v1)|null|
-|**2022-12-14**|**Kinetics and steady state of polar flock with birth and death**|Pratikshya Jena et.al.|[2212.07191v1](http://arxiv.org/abs/2212.07191v1)|null|
+|**2022-12-15**|**Kinetics and steady state of polar flock with birth and death**|Pratikshya Jena et.al.|[2212.07191v2](http://arxiv.org/abs/2212.07191v2)|null|
 |**2022-12-14**|**Structure and dynamics investigations of a partially hydrogenated graphene/Ni(111) surface**|Emanuel Bahn et.al.|[2212.07159v1](http://arxiv.org/abs/2212.07159v1)|null|
 |**2022-12-14**|**Searches for ultra-high energy photons and neutrinos with the Pierre Auger Observatory**|Nicolás Martín González et.al.|[2212.07139v1](http://arxiv.org/abs/2212.07139v1)|null|
 |**2022-12-13**|**Semantic Brain Decoding: from fMRI to conceptually similar image reconstruction of visual stimuli**|Matteo Ferrante et.al.|[2212.06726v1](http://arxiv.org/abs/2212.06726v1)|null|
