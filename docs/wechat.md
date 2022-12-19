@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-12-16, **Phase separation of active Brownian particles on curved surfaces**, Priyanka Iyer et.al., Paper: [http://arxiv.org/abs/2212.08561v1](http://arxiv.org/abs/2212.08561v1)
+- 2022-12-16, **Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models**, Ziyi Chang et.al., Paper: [http://arxiv.org/abs/2212.08526v1](http://arxiv.org/abs/2212.08526v1), Code: **[https://github.com/mrzzy2021/styledmotionsynthesis](https://github.com/mrzzy2021/styledmotionsynthesis)**
+- 2022-12-16, **Moate Simulation of Stochastic Processes**, Michael E. Mura et.al., Paper: [http://arxiv.org/abs/2212.08509v1](http://arxiv.org/abs/2212.08509v1)
+- 2022-12-16, **Magnetic Properties of Multifunctional $^7$LiFePO$_4$ under Hydrostatic Pressure**, Ugne Miniotaite et.al., Paper: [http://arxiv.org/abs/2212.08439v1](http://arxiv.org/abs/2212.08439v1)
+- 2022-12-16, **Mechanism of delocalisation-enhanced exciton transport in disordered organic semiconductors**, Daniel Balzer et.al., Paper: [http://arxiv.org/abs/2212.08429v1](http://arxiv.org/abs/2212.08429v1)
+- 2022-12-16, **Fake it till you make it: Learning(s) from a synthetic ImageNet clone**, Mert Bulent Sariyildiz et.al., Paper: [http://arxiv.org/abs/2212.08420v1](http://arxiv.org/abs/2212.08420v1)
+- 2022-12-16, **Generalizing Reduction-Based Algebraic Multigrid**, Tareq Zaman et.al., Paper: [http://arxiv.org/abs/2212.08371v1](http://arxiv.org/abs/2212.08371v1)
+- 2022-12-16, **Text-to-speech synthesis based on latent variable conversion using diffusion probabilistic model and variational autoencoder**, Yusuke Yasuda et.al., Paper: [http://arxiv.org/abs/2212.08329v1](http://arxiv.org/abs/2212.08329v1)
+- 2022-12-16, **Signature of Collapsars as Sources for High-energy Neutrinos and $r$-process Nuclei**, Gang Guo et.al., Paper: [http://arxiv.org/abs/2212.08266v1](http://arxiv.org/abs/2212.08266v1)
+- 2022-12-16, **SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation**, Jee Seok Yoon et.al., Paper: [http://arxiv.org/abs/2212.08228v1](http://arxiv.org/abs/2212.08228v1)
 - 2022-12-15, **Generating Realistic 3D Brain MRIs Using a Conditional Diffusion Probabilistic Model**, Wei Peng et.al., Paper: [http://arxiv.org/abs/2212.08034v1](http://arxiv.org/abs/2212.08034v1)
 - 2022-12-15, **Pathwise uniqueness for singular stochastic Volterra equations with Hölder coefficients**, David J. Prömel et.al., Paper: [http://arxiv.org/abs/2212.08029v1](http://arxiv.org/abs/2212.08029v1)
 - 2022-12-15, **Disentangling Sub-GeV Dark Matter from the Diffuse Supernova Neutrino Background using Hyper-Kamiokande**, Sandra Robles et.al., Paper: [http://arxiv.org/abs/2212.07989v1](http://arxiv.org/abs/2212.07989v1)
@@ -280,6 +290,7 @@
 
 ## sketch
 
+- 2022-12-15, **Learning Sparsity and Randomness for Data-driven Low Rank Approximation**, Tiejin Chen et.al., Paper: [http://arxiv.org/abs/2212.08186v1](http://arxiv.org/abs/2212.08186v1)
 - 2022-12-14, **How Researchers Could Obtain Quick and Cheap User Feedback on their Algorithms Without Having to Operate their Own Recommender System**, Tobias Eichinger et.al., Paper: [http://arxiv.org/abs/2212.07177v1](http://arxiv.org/abs/2212.07177v1)
 - 2022-12-14, **Accessible categories with a class of limits**, Stephen Lack et.al., Paper: [http://arxiv.org/abs/2212.07135v1](http://arxiv.org/abs/2212.07135v1)
 - 2022-12-14, **Modelling Biological and Ecological Systems with the Calculus of Wrapped Compartments**, Marco Aldinucci et.al., Paper: [http://arxiv.org/abs/2212.07105v1](http://arxiv.org/abs/2212.07105v1)
