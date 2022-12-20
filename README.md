@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Scalable Diffusion Models with Transformers**|William Peebles et.al.|[2212.09748v1](http://arxiv.org/abs/2212.09748v1)|null|
+|**2022-12-19**|**Anisotropic fluctuations of angular momentum of heavy quarks in the Glasma**|Pooja et.al.|[2212.09725v1](http://arxiv.org/abs/2212.09725v1)|null|
+|**2022-12-19**|**Non-perturbative intertwining between spin and charge correlations: A "smoking gun" single-boson-exchange result**|Severino Adler et.al.|[2212.09693v1](http://arxiv.org/abs/2212.09693v1)|null|
+|**2022-12-19**|**Supercooled liquids are Fickian yet non-Gaussian**|Francesco Rusciano et.al.|[2212.09679v1](http://arxiv.org/abs/2212.09679v1)|null|
+|**2022-12-19**|**Radiative Transfer in Lyα Nebulae: I. Modeling a Continuous or Clumpy Spherical Halo with a Central Source**|Seok-Jun Chang et.al.|[2212.09630v1](http://arxiv.org/abs/2212.09630v1)|null|
+|**2022-12-19**|**Optimizing Prompts for Text-to-Image Generation**|Yaru Hao et.al.|[2212.09611v1](http://arxiv.org/abs/2212.09611v1)|**[link](https://github.com/microsoft/lmops)**|
+|**2022-12-19**|**Kinematics of the diffuse intragroup and intracluster light in groups and clusters of galaxies in the Local Universe within 100 Mpc distance**|Magda Arnaboldi et.al.|[2212.09569v1](http://arxiv.org/abs/2212.09569v1)|null|
+|**2022-12-19**|**A modified equation analysis for immersed boundary methods based on volume penalization: applications to linear advection-diffusion and high-order discontinuous Galerkin schemes**|Victor J. Llorente et.al.|[2212.09560v1](http://arxiv.org/abs/2212.09560v1)|null|
+|**2022-12-19**|**Cold collisions between alkali and alkaline-earth hetero nuclear atom-ion system Li + Ba$^+$**|D. Sardar et.al.|[2212.09556v1](http://arxiv.org/abs/2212.09556v1)|null|
+|**2022-12-19**|**A model for characterizing anisotropic diffusion in confined molecular fluids exemplified on water in slit pores and thin ionic liquid films**|Kevin Höllring et.al.|[2212.09545v1](http://arxiv.org/abs/2212.09545v1)|null|
 |**2022-12-16**|**Phase separation of active Brownian particles on curved surfaces**|Priyanka Iyer et.al.|[2212.08561v1](http://arxiv.org/abs/2212.08561v1)|null|
 |**2022-12-16**|**Unifying Human Motion Synthesis and Style Transfer with Denoising Diffusion Probabilistic Models**|Ziyi Chang et.al.|[2212.08526v1](http://arxiv.org/abs/2212.08526v1)|**[link](https://github.com/mrzzy2021/styledmotionsynthesis)**|
 |**2022-12-16**|**Moate Simulation of Stochastic Processes**|Michael E. Mura et.al.|[2212.08509v1](http://arxiv.org/abs/2212.08509v1)|null|
@@ -294,6 +304,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-19**|**Integrability for Feynman Integrals**|Florian Loebbert et.al.|[2212.09636v1](http://arxiv.org/abs/2212.09636v1)|null|
+|**2022-12-19**|**AI Art in Architecture**|Joern Ploennigs et.al.|[2212.09399v1](http://arxiv.org/abs/2212.09399v1)|null|
+|**2022-12-17**|**Spatial diffusion of heavy quarks in background magnetic field**|Sarthak Satapathy et.al.|[2212.08933v1](http://arxiv.org/abs/2212.08933v1)|null|
 |**2022-12-15**|**Learning Sparsity and Randomness for Data-driven Low Rank Approximation**|Tiejin Chen et.al.|[2212.08186v1](http://arxiv.org/abs/2212.08186v1)|null|
 |**2022-12-14**|**How Researchers Could Obtain Quick and Cheap User Feedback on their Algorithms Without Having to Operate their Own Recommender System**|Tobias Eichinger et.al.|[2212.07177v1](http://arxiv.org/abs/2212.07177v1)|null|
 |**2022-12-14**|**Accessible categories with a class of limits**|Stephen Lack et.al.|[2212.07135v1](http://arxiv.org/abs/2212.07135v1)|null|
