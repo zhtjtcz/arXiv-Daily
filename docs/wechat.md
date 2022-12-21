@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-12-20, **Combining machine-learned and empirical force fields with the parareal algorithm: application to the diffusion of atomistic defects**, Olga Gorynina et.al., Paper: [http://arxiv.org/abs/2212.10508v1](http://arxiv.org/abs/2212.10508v1)
+- 2022-12-20, **SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers**, Hongyi Yuan et.al., Paper: [http://arxiv.org/abs/2212.10325v1](http://arxiv.org/abs/2212.10325v1)
+- 2022-12-20, **Strong uniform convergence of Laplacians of random geometric and directed kNN graphs on compact manifolds**, Hélène Guérin et.al., Paper: [http://arxiv.org/abs/2212.10287v1](http://arxiv.org/abs/2212.10287v1)
+- 2022-12-20, **Large deviations of stochastic partial differential equations with fully local monotone coefficients**, Tianyi Pan et.al., Paper: [http://arxiv.org/abs/2212.10282v1](http://arxiv.org/abs/2212.10282v1)
+- 2022-12-20, **Two-Phase Flow Simulations of Surface Waves in Wind-Forced Conditions**, Malte Loft et.al., Paper: [http://arxiv.org/abs/2212.10279v1](http://arxiv.org/abs/2212.10279v1)
+- 2022-12-20, **Nonparametric plug-in classifier for multiclass classification of S.D.E. paths**, Christophe Denis et.al., Paper: [http://arxiv.org/abs/2212.10259v1](http://arxiv.org/abs/2212.10259v1)
+- 2022-12-20, **Diff-Glat: Diffusion Glancing Transformer for Parallel Sequence to Sequence Learning**, Lihua Qian et.al., Paper: [http://arxiv.org/abs/2212.10240v1](http://arxiv.org/abs/2212.10240v1)
+- 2022-12-20, **Numerical modeling of pulverized iron flames in a multidimensional hot counterflow burner**, Xu Wen et.al., Paper: [http://arxiv.org/abs/2212.10226v1](http://arxiv.org/abs/2212.10226v1)
+- 2022-12-20, **Well-Posedness and Stability Analysis of an Epidemic Model with Infection Age and Spatial Diffusion**, Christoph Walker et.al., Paper: [http://arxiv.org/abs/2212.10137v1](http://arxiv.org/abs/2212.10137v1)
+- 2022-12-20, **Diffusion equations with spatially dependent coefficients and fractal Cauer-type networks**, Jacky Cresson et.al., Paper: [http://arxiv.org/abs/2212.10118v1](http://arxiv.org/abs/2212.10118v1)
 - 2022-12-19, **Scalable Diffusion Models with Transformers**, William Peebles et.al., Paper: [http://arxiv.org/abs/2212.09748v1](http://arxiv.org/abs/2212.09748v1)
 - 2022-12-19, **Anisotropic fluctuations of angular momentum of heavy quarks in the Glasma**, Pooja et.al., Paper: [http://arxiv.org/abs/2212.09725v1](http://arxiv.org/abs/2212.09725v1)
 - 2022-12-19, **Non-perturbative intertwining between spin and charge correlations: A "smoking gun" single-boson-exchange result**, Severino Adler et.al., Paper: [http://arxiv.org/abs/2212.09693v1](http://arxiv.org/abs/2212.09693v1)
@@ -300,6 +310,7 @@
 
 ## sketch
 
+- 2022-12-20, **StyleDomain: Analysis of StyleSpace for Domain Adaptation of StyleGAN**, Aibek Alanov et.al., Paper: [http://arxiv.org/abs/2212.10229v1](http://arxiv.org/abs/2212.10229v1)
 - 2022-12-19, **Integrability for Feynman Integrals**, Florian Loebbert et.al., Paper: [http://arxiv.org/abs/2212.09636v1](http://arxiv.org/abs/2212.09636v1)
 - 2022-12-19, **AI Art in Architecture**, Joern Ploennigs et.al., Paper: [http://arxiv.org/abs/2212.09399v1](http://arxiv.org/abs/2212.09399v1)
 - 2022-12-17, **Spatial diffusion of heavy quarks in background magnetic field**, Sarthak Satapathy et.al., Paper: [http://arxiv.org/abs/2212.08933v1](http://arxiv.org/abs/2212.08933v1)
