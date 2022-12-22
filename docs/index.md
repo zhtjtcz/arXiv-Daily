@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-21**|**Detecting and characterizing pulsar haloes with the Cherenkov Telescope Array**|Christopher Eckner et.al.|[2212.11265v1](http://arxiv.org/abs/2212.11265v1)|null|
+|**2022-12-21**|**Contrastive Language-Vision AI Models Pretrained on Web-Scraped Multimodal Data Exhibit Sexual Objectification Bias**|Robert Wolfe et.al.|[2212.11261v1](http://arxiv.org/abs/2212.11261v1)|null|
+|**2022-12-21**|**High-Energy Neutrinos from Gamma-Ray-Faint Accretion-Powered Hypernebulae**|Navin Sridhar et.al.|[2212.11236v1](http://arxiv.org/abs/2212.11236v1)|null|
+|**2022-12-21**|**$^{26}$Al gamma rays from the Galaxy with INTEGRAL/SPI**|Moritz M. M. Pleintinger et.al.|[2212.11228v1](http://arxiv.org/abs/2212.11228v1)|null|
+|**2022-12-21**|**Characterization and Control of the Run-and-Tumble Dynamics of {\it Escherichia Coli}**|Christina Kurzthaler et.al.|[2212.11222v1](http://arxiv.org/abs/2212.11222v1)|null|
+|**2022-12-21**|**Analytical solutions in the modeling of the endovenous laser ablation**|Luisa Consiglieri et.al.|[2212.11195v1](http://arxiv.org/abs/2212.11195v1)|null|
+|**2022-12-21**|**Entropy- and Distance-Based Predictors From GPT-2 Attention Patterns Predict Reading Times Over and Above GPT-2 Surprisal**|Byung-Doh Oh et.al.|[2212.11185v1](http://arxiv.org/abs/2212.11185v1)|**[link](https://github.com/byungdoh/attn_dist)**|
+|**2022-12-21**|**PHANGS-JWST First Results: Tracing the Diffuse ISM with JWST Imaging of Polycyclic Aromatic Hydrocarbon Emission in Nearby Galaxies**|Karin M. Sandstrom et.al.|[2212.11177v1](http://arxiv.org/abs/2212.11177v1)|null|
+|**2022-12-21**|**Device-Bind Key-Storageless Hardware AI Model IP Protection: A PUF and Permute-Diffusion Encryption-Enabled Approach**|Qianqian Pan et.al.|[2212.11133v1](http://arxiv.org/abs/2212.11133v1)|null|
+|**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
 |**2022-12-20**|**Combining machine-learned and empirical force fields with the parareal algorithm: application to the diffusion of atomistic defects**|Olga Gorynina et.al.|[2212.10508v1](http://arxiv.org/abs/2212.10508v1)|null|
 |**2022-12-20**|**SeqDiffuSeq: Text Diffusion with Encoder-Decoder Transformers**|Hongyi Yuan et.al.|[2212.10325v1](http://arxiv.org/abs/2212.10325v1)|null|
 |**2022-12-20**|**Strong uniform convergence of Laplacians of random geometric and directed kNN graphs on compact manifolds**|Hélène Guérin et.al.|[2212.10287v1](http://arxiv.org/abs/2212.10287v1)|null|
@@ -318,6 +328,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
+|**2022-12-20**|**Generation-Augmented Query Expansion For Code Retrieval**|Dong Li et.al.|[2212.10692v1](http://arxiv.org/abs/2212.10692v1)|null|
 |**2022-12-20**|**StyleDomain: Analysis of StyleSpace for Domain Adaptation of StyleGAN**|Aibek Alanov et.al.|[2212.10229v1](http://arxiv.org/abs/2212.10229v1)|null|
 |**2022-12-19**|**Integrability for Feynman Integrals**|Florian Loebbert et.al.|[2212.09636v1](http://arxiv.org/abs/2212.09636v1)|null|
 |**2022-12-19**|**AI Art in Architecture**|Joern Ploennigs et.al.|[2212.09399v1](http://arxiv.org/abs/2212.09399v1)|null|
