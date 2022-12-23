@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**Scalable Adaptive Computation for Iterative Generation**|Allan Jabri et.al.|[2212.11972v1](http://arxiv.org/abs/2212.11972v1)|null|
+|**2022-12-22**|**Diffuse-interface approximation and weak-strong uniqueness of anisotropic mean curvature flow**|Tim Laux et.al.|[2212.11939v1](http://arxiv.org/abs/2212.11939v1)|null|
+|**2022-12-22**|**Convergence of particles and tree based scheme for singular FBSDEs**|Jean-François Chassagneux et.al.|[2212.11917v1](http://arxiv.org/abs/2212.11917v1)|null|
+|**2022-12-22**|**Green's function estimates for a 2d singularly perturbed convection-diffusion problem: extended analysis**|Sebastian Franz et.al.|[2212.11916v1](http://arxiv.org/abs/2212.11916v1)|null|
+|**2022-12-22**|**StoRM: A Diffusion-based Stochastic Regeneration Model for Speech Enhancement and Dereverberation**|Jean-Marie Lemercier et.al.|[2212.11851v1](http://arxiv.org/abs/2212.11851v1)|null|
+|**2022-12-22**|**Efficient Sampling for Realized Variance Estimation in Time-Changed Diffusion Models**|Timo Dimitriadis et.al.|[2212.11833v1](http://arxiv.org/abs/2212.11833v1)|null|
+|**2022-12-22**|**Modelling the effect of image shadowing from Differential Interference Contrast Microscopy on Differential Dynamic Microscopy**|Timothy Ostler et.al.|[2212.11827v1](http://arxiv.org/abs/2212.11827v1)|null|
+|**2022-12-22**|**Bifurcations of Neural Fields on the Sphere**|Len Spek et.al.|[2212.11785v1](http://arxiv.org/abs/2212.11785v1)|null|
+|**2022-12-22**|**GENIE: Large Scale Pre-training for Text Generation with Diffusion Model**|Zhenghao Lin et.al.|[2212.11685v1](http://arxiv.org/abs/2212.11685v1)|null|
+|**2022-12-22**|**Non-Hermitian topological Fermi superfluid near the $p$-wave unitary limit**|Hiroyuki Tajima et.al.|[2212.11633v1](http://arxiv.org/abs/2212.11633v1)|null|
 |**2022-12-21**|**Detecting and characterizing pulsar haloes with the Cherenkov Telescope Array**|Christopher Eckner et.al.|[2212.11265v1](http://arxiv.org/abs/2212.11265v1)|null|
 |**2022-12-21**|**Contrastive Language-Vision AI Models Pretrained on Web-Scraped Multimodal Data Exhibit Sexual Objectification Bias**|Robert Wolfe et.al.|[2212.11261v1](http://arxiv.org/abs/2212.11261v1)|null|
 |**2022-12-21**|**High-Energy Neutrinos from Gamma-Ray-Faint Accretion-Powered Hypernebulae**|Navin Sridhar et.al.|[2212.11236v1](http://arxiv.org/abs/2212.11236v1)|null|
@@ -324,6 +334,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2022-12-22**|**A High-Level Comparison of Recent Technologies for Massive MIMO Architectures**|Hans Rosenberger et.al.|[2212.11842v1](http://arxiv.org/abs/2212.11842v1)|null|
+|**2022-12-19**|**GeoCode: Interpretable Shape Programs**|Ofek Pearl et.al.|[2212.11715v1](http://arxiv.org/abs/2212.11715v1)|**[link](https://github.com/threedle/GeoCode)**|
 |**2022-12-21**|**Reynolds number scaling and energy spectra in geostrophic convection**|Matteo Madonia et.al.|[2212.10991v1](http://arxiv.org/abs/2212.10991v1)|null|
 |**2022-12-20**|**Generation-Augmented Query Expansion For Code Retrieval**|Dong Li et.al.|[2212.10692v1](http://arxiv.org/abs/2212.10692v1)|null|
 |**2022-12-20**|**StyleDomain: Analysis of StyleSpace for Domain Adaptation of StyleGAN**|Aibek Alanov et.al.|[2212.10229v1](http://arxiv.org/abs/2212.10229v1)|null|
