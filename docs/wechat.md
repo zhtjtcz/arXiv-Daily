@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-12-23, **On the wellposedness for a fuel cell problem**, Luisa Consiglieri et.al., Paper: [http://arxiv.org/abs/2212.12503v1](http://arxiv.org/abs/2212.12503v1)
+- 2022-12-23, **A uniqueness and stability principle for surface diffusion**, Milan Kroemer et.al., Paper: [http://arxiv.org/abs/2212.12487v1](http://arxiv.org/abs/2212.12487v1)
+- 2022-12-23, **In-plane electric field induced shift of spin-dependent resistivity at transitions between quantum Hall plateaus in InAs-based quantum well**, Olivio Chiatti et.al., Paper: [http://arxiv.org/abs/2212.12391v1](http://arxiv.org/abs/2212.12391v1)
+- 2022-12-23, **Dirichlet-Neumann and Neumann-Neumann waveform relaxation algorithms for time fractional sub-diffusion and diffusion-wave equations**, Soura Sana et.al., Paper: [http://arxiv.org/abs/2212.12366v1](http://arxiv.org/abs/2212.12366v1)
+- 2022-12-23, **The dissipative Generalized Hydrodynamic equations and their numerical solution**, Frederik Møller et.al., Paper: [http://arxiv.org/abs/2212.12349v1](http://arxiv.org/abs/2212.12349v1)
+- 2022-12-23, **Convergence analysis of BDDC preconditioners for hybrid DG discretizations of the cardiac cell-by-cell model**, Ngoc Mai Monica Huynh et.al., Paper: [http://arxiv.org/abs/2212.12295v1](http://arxiv.org/abs/2212.12295v1)
+- 2022-12-23, **Field Theory of Active Brownian Particles in Potentials**, Ziluo Zhang et.al., Paper: [http://arxiv.org/abs/2212.12291v1](http://arxiv.org/abs/2212.12291v1)
+- 2022-12-23, **Surface Coverage Dynamics for Reversible Dissociative Adsorption on Finite Linear Lattices**, Enrique Mercado et.al., Paper: [http://arxiv.org/abs/2212.12286v1](http://arxiv.org/abs/2212.12286v1)
+- 2022-12-23, **A meso-scale cartography of the AI ecosystem**, Floriana Gargiulo et.al., Paper: [http://arxiv.org/abs/2212.12263v1](http://arxiv.org/abs/2212.12263v1)
+- 2022-12-23, **Diffusive fluctuations of long-range symmetric exclusion with a slow barrier**, Pedro Cardoso et.al., Paper: [http://arxiv.org/abs/2212.12089v1](http://arxiv.org/abs/2212.12089v1)
 - 2022-12-22, **Scalable Adaptive Computation for Iterative Generation**, Allan Jabri et.al., Paper: [http://arxiv.org/abs/2212.11972v1](http://arxiv.org/abs/2212.11972v1)
 - 2022-12-22, **Diffuse-interface approximation and weak-strong uniqueness of anisotropic mean curvature flow**, Tim Laux et.al., Paper: [http://arxiv.org/abs/2212.11939v1](http://arxiv.org/abs/2212.11939v1)
 - 2022-12-22, **Convergence of particles and tree based scheme for singular FBSDEs**, Jean-François Chassagneux et.al., Paper: [http://arxiv.org/abs/2212.11917v1](http://arxiv.org/abs/2212.11917v1)
@@ -330,6 +340,7 @@
 
 ## sketch
 
+- 2022-12-22, **A Domain-Extensible Compiler with Controllable Automation of Optimisations**, Thomas Koehler et.al., Paper: [http://arxiv.org/abs/2212.12035v1](http://arxiv.org/abs/2212.12035v1)
 - 2022-12-22, **A High-Level Comparison of Recent Technologies for Massive MIMO Architectures**, Hans Rosenberger et.al., Paper: [http://arxiv.org/abs/2212.11842v1](http://arxiv.org/abs/2212.11842v1)
 - 2022-12-19, **GeoCode: Interpretable Shape Programs**, Ofek Pearl et.al., Paper: [http://arxiv.org/abs/2212.11715v1](http://arxiv.org/abs/2212.11715v1), Code: **[https://github.com/threedle/GeoCode](https://github.com/threedle/GeoCode)**
 - 2022-12-21, **Reynolds number scaling and energy spectra in geostrophic convection**, Matteo Madonia et.al., Paper: [http://arxiv.org/abs/2212.10991v1](http://arxiv.org/abs/2212.10991v1)
