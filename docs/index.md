@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-26**|**A Posteriori error estimates for Darcy-Forchheimer's problem coupled with the convection-diffusion-reaction equation**|Toni Sayah et.al.|[2212.13247v1](http://arxiv.org/abs/2212.13247v1)|null|
+|**2022-12-26**|**Informatics-Driven Selection of Polymers for Fuel-Cell Applications**|Huan Tran et.al.|[2212.13198v1](http://arxiv.org/abs/2212.13198v1)|null|
+|**2022-12-26**|**Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models**|Zijian Zhang et.al.|[2212.12990v1](http://arxiv.org/abs/2212.12990v1)|null|
+|**2022-12-25**|**Representations of Hecke algebras and Markov dualities for interacting particle systems**|Alexander Povolotsky et.al.|[2212.12944v1](http://arxiv.org/abs/2212.12944v1)|null|
+|**2022-12-25**|**Small time asymptotics for a class of stochastic partial differential equations with fully monotone coefficients forced by multiplicative Gaussian noise**|Ankit Kumar et.al.|[2212.12896v1](http://arxiv.org/abs/2212.12896v1)|null|
+|**2022-12-25**|**Spatiotemporal mode decomposition of ultrashort pulses propagating in graded-index multimode fibers**|Mario Zitelli et.al.|[2212.12882v1](http://arxiv.org/abs/2212.12882v1)|null|
+|**2022-12-24**|**Boundedness in a taxis-consumption system involving signal-dependent motilities and concurrent enhancement of density-determined diffusion and cross-diffusion**|Genglin Li et.al.|[2212.12789v1](http://arxiv.org/abs/2212.12789v1)|null|
+|**2022-12-24**|**Global solutions to the Nernst-Planck-Euler system on bounded domain**|Dapeng Du et.al.|[2212.12761v1](http://arxiv.org/abs/2212.12761v1)|null|
+|**2022-12-24**|**On the Relation between Entropy and Kinetics**|Benjamin Sorkin et.al.|[2212.12746v1](http://arxiv.org/abs/2212.12746v1)|null|
+|**2022-12-24**|**Anomalous dimensions of the Smoluchowski coagulation equation**|J. Eggers et.al.|[2212.12714v1](http://arxiv.org/abs/2212.12714v1)|null|
 |**2022-12-23**|**On the wellposedness for a fuel cell problem**|Luisa Consiglieri et.al.|[2212.12503v1](http://arxiv.org/abs/2212.12503v1)|null|
 |**2022-12-23**|**A uniqueness and stability principle for surface diffusion**|Milan Kroemer et.al.|[2212.12487v1](http://arxiv.org/abs/2212.12487v1)|null|
 |**2022-12-23**|**In-plane electric field induced shift of spin-dependent resistivity at transitions between quantum Hall plateaus in InAs-based quantum well**|Olivio Chiatti et.al.|[2212.12391v1](http://arxiv.org/abs/2212.12391v1)|null|
