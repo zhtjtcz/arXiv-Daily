@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-28**|**Non-Gaussian fluctuation dynamics in relativistic fluid**|Xin An et.al.|[2212.14029v1](http://arxiv.org/abs/2212.14029v1)|null|
+|**2022-12-28**|**Positive harmonically bounded solutions for semi-linear equations**|Wolfhard Hansen et.al.|[2212.13999v1](http://arxiv.org/abs/2212.13999v1)|null|
+|**2022-12-28**|**Conservative stabilized Runge-Kutta methods for the Vlasov-Fokker-Planck equation**|Ibrahim Almuslimani et.al.|[2212.13943v1](http://arxiv.org/abs/2212.13943v1)|null|
+|**2022-12-28**|**Coherence and entanglement in Grover and Harrow-Hassidim-Lloyd algorithm**|Changchun Feng et.al.|[2212.13938v1](http://arxiv.org/abs/2212.13938v1)|null|
+|**2022-12-28**|**On higher order moments and recurrence of an SDE with switching**|Alexander Veretennikov et.al.|[2212.13921v1](http://arxiv.org/abs/2212.13921v1)|null|
+|**2022-12-28**|**The role of beta-amyloid and tau proteins in Alzheimer's disease: a mathematical model on graph**|Michiel Bertsch et.al.|[2212.13868v1](http://arxiv.org/abs/2212.13868v1)|null|
+|**2022-12-28**|**Anomalous superconducting proximity effect of planar Pb-RhPb2 heterojunctions in the clean limit**|Rui-Feng Wang et.al.|[2212.13826v1](http://arxiv.org/abs/2212.13826v1)|null|
+|**2022-12-28**|**Acoustic Equation in a Lossy Medium**|Tapan K. Sengupta et.al.|[2212.13795v1](http://arxiv.org/abs/2212.13795v1)|null|
+|**2022-12-28**|**Distributed Active Noise Control System Based on a Block Diffusion FxLMS Algorithm with Bidirectional Communication**|Tianyou Li et.al.|[2212.13777v1](http://arxiv.org/abs/2212.13777v1)|null|
+|**2022-12-28**|**Exploring Vision Transformers as Diffusion Learners**|He Cao et.al.|[2212.13771v1](http://arxiv.org/abs/2212.13771v1)|null|
 |**2022-12-26**|**A Posteriori error estimates for Darcy-Forchheimer's problem coupled with the convection-diffusion-reaction equation**|Toni Sayah et.al.|[2212.13247v1](http://arxiv.org/abs/2212.13247v1)|null|
 |**2022-12-26**|**Informatics-Driven Selection of Polymers for Fuel-Cell Applications**|Huan Tran et.al.|[2212.13198v1](http://arxiv.org/abs/2212.13198v1)|null|
 |**2022-12-26**|**Unsupervised Representation Learning from Pre-trained Diffusion Probabilistic Models**|Zijian Zhang et.al.|[2212.12990v1](http://arxiv.org/abs/2212.12990v1)|null|
@@ -358,6 +368,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2022-12-28**|**Index estimates for sequences of harmonic maps**|Jonas Hirsch et.al.|[2212.13808v1](http://arxiv.org/abs/2212.13808v1)|null|
 |**2022-12-22**|**A Domain-Extensible Compiler with Controllable Automation of Optimisations**|Thomas Koehler et.al.|[2212.12035v1](http://arxiv.org/abs/2212.12035v1)|null|
 |**2022-12-22**|**A High-Level Comparison of Recent Technologies for Massive MIMO Architectures**|Hans Rosenberger et.al.|[2212.11842v1](http://arxiv.org/abs/2212.11842v1)|null|
 |**2022-12-19**|**GeoCode: Interpretable Shape Programs**|Ofek Pearl et.al.|[2212.11715v1](http://arxiv.org/abs/2212.11715v1)|**[link](https://github.com/threedle/GeoCode)**|
