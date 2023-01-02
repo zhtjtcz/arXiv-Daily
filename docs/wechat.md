@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2022-12-30, **eDIG-CHANGES I: Extended Hα Emission from the Extraplanar Diffuse Ionized Gas (eDIG) around CHANG-ES Galaxies**, Li-Yuan Lu et.al., Paper: [http://arxiv.org/abs/2212.14824v1](http://arxiv.org/abs/2212.14824v1)
+- 2022-12-30, **Origin of performance degradation in high-delithiation Li$_x$CoO$_2$: insights from direct atomic simulations using global neural network potentials**, Pan Zhang et.al., Paper: [http://arxiv.org/abs/2212.14667v1](http://arxiv.org/abs/2212.14667v1)
+- 2022-12-30, **Numerical challenges in the simulation of 1D bounded low-temperature plasmas with charge separation in various collisional regimes**, Louis Reboul et.al., Paper: [http://arxiv.org/abs/2212.14590v1](http://arxiv.org/abs/2212.14590v1)
+- 2022-12-30, **Averaging principle for slow-fast systems of stochastic PDEs with rough coefficients**, Sandra Cerrai et.al., Paper: [http://arxiv.org/abs/2212.14552v1](http://arxiv.org/abs/2212.14552v1)
+- 2022-12-30, **ResGrad: Residual Denoising Diffusion Probabilistic Models for Text to Speech**, Zehua Chen et.al., Paper: [http://arxiv.org/abs/2212.14518v1](http://arxiv.org/abs/2212.14518v1)
+- 2022-12-30, **Growth of 2D topological material Bi on InSb(111)B with fractal surface structures**, Yoshiyuki Ohtsubo et.al., Paper: [http://arxiv.org/abs/2212.14493v1](http://arxiv.org/abs/2212.14493v1)
+- 2022-12-29, **Innovation through inter-regional interaction in a spatial economic model**, José M. Gaspar et.al., Paper: [http://arxiv.org/abs/2212.14475v1](http://arxiv.org/abs/2212.14475v1)
+- 2022-12-29, **ACEs in spaces: Autocatalytic Chemical Ecosystems in Spatial Settings**, Alex M. Plum et.al., Paper: [http://arxiv.org/abs/2212.14445v1](http://arxiv.org/abs/2212.14445v1)
+- 2022-12-29, **Large $D$ Holographic Collisions**, Raimon Luna et.al., Paper: [http://arxiv.org/abs/2212.14440v1](http://arxiv.org/abs/2212.14440v1)
+- 2022-12-29, **Invertible normalizing flow neural networks by JKO scheme**, Chen Xu et.al., Paper: [http://arxiv.org/abs/2212.14424v1](http://arxiv.org/abs/2212.14424v1)
 - 2022-12-28, **Non-Gaussian fluctuation dynamics in relativistic fluid**, Xin An et.al., Paper: [http://arxiv.org/abs/2212.14029v1](http://arxiv.org/abs/2212.14029v1)
 - 2022-12-28, **Positive harmonically bounded solutions for semi-linear equations**, Wolfhard Hansen et.al., Paper: [http://arxiv.org/abs/2212.13999v1](http://arxiv.org/abs/2212.13999v1)
 - 2022-12-28, **Conservative stabilized Runge-Kutta methods for the Vlasov-Fokker-Planck equation**, Ibrahim Almuslimani et.al., Paper: [http://arxiv.org/abs/2212.13943v1](http://arxiv.org/abs/2212.13943v1)
@@ -360,6 +370,8 @@
 
 ## sketch
 
+- 2022-12-29, **Bipolar Theorems for Sets of Non-negative Random Variables**, Johannes Langner et.al., Paper: [http://arxiv.org/abs/2212.14259v1](http://arxiv.org/abs/2212.14259v1)
+- 2022-12-28, **Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**, Justus Fasse et.al., Paper: [http://arxiv.org/abs/2212.14126v1](http://arxiv.org/abs/2212.14126v1)
 - 2022-12-28, **Index estimates for sequences of harmonic maps**, Jonas Hirsch et.al., Paper: [http://arxiv.org/abs/2212.13808v1](http://arxiv.org/abs/2212.13808v1)
 - 2022-12-22, **A Domain-Extensible Compiler with Controllable Automation of Optimisations**, Thomas Koehler et.al., Paper: [http://arxiv.org/abs/2212.12035v1](http://arxiv.org/abs/2212.12035v1)
 - 2022-12-22, **A High-Level Comparison of Recent Technologies for Massive MIMO Architectures**, Hans Rosenberger et.al., Paper: [http://arxiv.org/abs/2212.11842v1](http://arxiv.org/abs/2212.11842v1)
