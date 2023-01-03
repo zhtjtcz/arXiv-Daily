@@ -21,6 +21,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-02**|**Preface: Characterisation of Physical Processes from Anomalous Diffusion Data**|Carlo Manzo et.al.|[2301.00800v1](http://arxiv.org/abs/2301.00800v1)|null|
+|**2023-01-02**|**Examination of saturation coverage of short polymers using random sequential adsorption algorithm**|Aref Abbasi Moud et.al.|[2301.00766v1](http://arxiv.org/abs/2301.00766v1)|null|
+|**2023-01-02**|**Impact of random and targeted disruptions on information diffusion during outbreaks**|Hosein Masoomy et.al.|[2301.00748v1](http://arxiv.org/abs/2301.00748v1)|null|
+|**2023-01-02**|**Experimental demonstration of diffusion limitations on resolution and SNR in MR microscopy**|Benjamin M. Hardy et.al.|[2301.00727v1](http://arxiv.org/abs/2301.00727v1)|null|
+|**2023-01-02**|**Muse: Text-To-Image Generation via Masked Generative Transformers**|Huiwen Chang et.al.|[2301.00704v1](http://arxiv.org/abs/2301.00704v1)|null|
+|**2023-01-02**|**Constraints from the duration of supernova neutrino burst on resonant light gauge boson production by neutrinos**|David G. Cerdeño et.al.|[2301.00661v1](http://arxiv.org/abs/2301.00661v1)|null|
+|**2023-01-02**|**Charging dynamics of electric double layer nanocapacitors in mean-field**|Ivan Palaia et.al.|[2301.00610v1](http://arxiv.org/abs/2301.00610v1)|null|
+|**2023-01-02**|**Tailoring the escape rate of a Brownian particle by combining a vortex flow with a magnetic field**|Iman Abdoli et.al.|[2301.00589v1](http://arxiv.org/abs/2301.00589v1)|null|
+|**2023-01-02**|**Sample-to-sample fluctuations of transport coefficients in the totally asymmetric simple exclusion process with quenched disorders**|Issei Sakai et.al.|[2301.00563v1](http://arxiv.org/abs/2301.00563v1)|null|
+|**2023-01-02**|**Diffusion Probabilistic Models for Scene-Scale 3D Categorical Data**|Jumin Lee et.al.|[2301.00527v1](http://arxiv.org/abs/2301.00527v1)|**[link](https://github.com/zoomin-lee/scene-scale-diffusion)**|
 |**2022-12-30**|**eDIG-CHANGES I: Extended Hα Emission from the Extraplanar Diffuse Ionized Gas (eDIG) around CHANG-ES Galaxies**|Li-Yuan Lu et.al.|[2212.14824v1](http://arxiv.org/abs/2212.14824v1)|null|
 |**2022-12-30**|**Origin of performance degradation in high-delithiation Li$_x$CoO$_2$: insights from direct atomic simulations using global neural network potentials**|Pan Zhang et.al.|[2212.14667v1](http://arxiv.org/abs/2212.14667v1)|null|
 |**2022-12-30**|**Numerical challenges in the simulation of 1D bounded low-temperature plasmas with charge separation in various collisional regimes**|Louis Reboul et.al.|[2212.14590v1](http://arxiv.org/abs/2212.14590v1)|null|
@@ -378,6 +388,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-01-02**|**Algorithms for Massive Data -- Lecture Notes**|Nicola Prezza et.al.|[2301.00754v1](http://arxiv.org/abs/2301.00754v1)|null|
+|**2022-12-31**|**The functorial semantics of Lie theory**|Benjamin MacAdam et.al.|[2301.00305v1](http://arxiv.org/abs/2301.00305v1)|null|
 |**2022-12-29**|**Bipolar Theorems for Sets of Non-negative Random Variables**|Johannes Langner et.al.|[2212.14259v1](http://arxiv.org/abs/2212.14259v1)|null|
 |**2022-12-28**|**Modular termination verification with a higher-order concurrent separation logic (Intermediate report)**|Justus Fasse et.al.|[2212.14126v1](http://arxiv.org/abs/2212.14126v1)|null|
 |**2022-12-28**|**Index estimates for sequences of harmonic maps**|Jonas Hirsch et.al.|[2212.13808v1](http://arxiv.org/abs/2212.13808v1)|null|
