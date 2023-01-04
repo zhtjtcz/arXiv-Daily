@@ -20,7 +20,7 @@
 |**2023-01-02**|**Preface: Characterisation of Physical Processes from Anomalous Diffusion Data**|Carlo Manzo et.al.|[2301.00800v1](http://arxiv.org/abs/2301.00800v1)|null|
 |**2023-01-02**|**Examination of saturation coverage of short polymers using random sequential adsorption algorithm**|Aref Abbasi Moud et.al.|[2301.00766v1](http://arxiv.org/abs/2301.00766v1)|null|
 |**2023-01-02**|**Impact of random and targeted disruptions on information diffusion during outbreaks**|Hosein Masoomy et.al.|[2301.00748v1](http://arxiv.org/abs/2301.00748v1)|null|
-|**2023-01-02**|**Experimental demonstration of diffusion limitations on resolution and SNR in MR microscopy**|Benjamin M. Hardy et.al.|[2301.00727v1](http://arxiv.org/abs/2301.00727v1)|null|
+|**2023-01-03**|**Experimental demonstration of diffusion limitations on resolution and SNR in MR microscopy**|Benjamin M. Hardy et.al.|[2301.00727v2](http://arxiv.org/abs/2301.00727v2)|null|
 |**2023-01-02**|**Muse: Text-To-Image Generation via Masked Generative Transformers**|Huiwen Chang et.al.|[2301.00704v1](http://arxiv.org/abs/2301.00704v1)|null|
 |**2023-01-02**|**Constraints from the duration of supernova neutrino burst on resonant light gauge boson production by neutrinos**|David G. Cerdeño et.al.|[2301.00661v1](http://arxiv.org/abs/2301.00661v1)|null|
 |**2023-01-02**|**Charging dynamics of electric double layer nanocapacitors in mean-field**|Ivan Palaia et.al.|[2301.00610v1](http://arxiv.org/abs/2301.00610v1)|null|
