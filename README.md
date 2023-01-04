@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-03**|**Tunable intracellular transport on converging microtubule morphologies**|Niranjan Sarpangala et.al.|[2301.01264v1](http://arxiv.org/abs/2301.01264v1)|null|
+|**2023-01-03**|**Non-stationary Lattice Anderson Model with Non-local Laplacian and Correlated White Noise**|Xiaoyun Chen et.al.|[2301.01242v1](http://arxiv.org/abs/2301.01242v1)|null|
+|**2023-01-03**|**Plasma heating and particle acceleration in collisionless shocks through astrophysical observations**|Marco Miceli et.al.|[2301.01183v1](http://arxiv.org/abs/2301.01183v1)|null|
+|**2023-01-03**|**BMO-regularity for a degenerate transmission problem**|Vincenzo Bianca et.al.|[2301.01171v1](http://arxiv.org/abs/2301.01171v1)|null|
+|**2023-01-03**|**A new insight on positivity and contractivity of the Crank-Nicolson scheme for the heat equation**|I. Higueras et.al.|[2301.01066v1](http://arxiv.org/abs/2301.01066v1)|null|
+|**2023-01-03**|**Novel Spatial Profiles of Population Distribution of Two Diffusive SIS Epidemic Models with Mass Action Infection Mechanism and Small Movement Rate for the Infected Individuals**|Rui Peng et.al.|[2301.01012v1](http://arxiv.org/abs/2301.01012v1)|null|
+|**2023-01-03**|**Meta-learning generalizable dynamics from trajectories**|Qiaofeng Li et.al.|[2301.00957v1](http://arxiv.org/abs/2301.00957v1)|null|
+|**2023-01-03**|**FEASTS: IGM cooling triggered by tidal interactions through the diffuse HI phase around NGC 4631**|Jing Wang et.al.|[2301.00937v1](http://arxiv.org/abs/2301.00937v1)|null|
+|**2023-01-03**|**Exploring Complex Dynamical Systems via Nonconvex Optimization**|Hunter Elliott et.al.|[2301.00923v1](http://arxiv.org/abs/2301.00923v1)|**[link](https://github.com/hunterelliott/dense-rdn)**|
+|**2023-01-02**|**Pre-acceleration in the Electron Foreshock II: Oblique Whistler Waves**|Paul J. Morris et.al.|[2301.00872v1](http://arxiv.org/abs/2301.00872v1)|null|
 |**2023-01-02**|**Preface: Characterisation of Physical Processes from Anomalous Diffusion Data**|Carlo Manzo et.al.|[2301.00800v1](http://arxiv.org/abs/2301.00800v1)|null|
 |**2023-01-02**|**Examination of saturation coverage of short polymers using random sequential adsorption algorithm**|Aref Abbasi Moud et.al.|[2301.00766v1](http://arxiv.org/abs/2301.00766v1)|null|
 |**2023-01-02**|**Impact of random and targeted disruptions on information diffusion during outbreaks**|Hosein Masoomy et.al.|[2301.00748v1](http://arxiv.org/abs/2301.00748v1)|null|
@@ -384,6 +394,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-03**|**EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions [Technical Report]**|Enhao Zhang et.al.|[2301.00929v1](http://arxiv.org/abs/2301.00929v1)|null|
 |**2023-01-02**|**Algorithms for Massive Data -- Lecture Notes**|Nicola Prezza et.al.|[2301.00754v1](http://arxiv.org/abs/2301.00754v1)|null|
 |**2022-12-31**|**The functorial semantics of Lie theory**|Benjamin MacAdam et.al.|[2301.00305v1](http://arxiv.org/abs/2301.00305v1)|null|
 |**2022-12-29**|**Bipolar Theorems for Sets of Non-negative Random Variables**|Johannes Langner et.al.|[2212.14259v1](http://arxiv.org/abs/2212.14259v1)|null|
