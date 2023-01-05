@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2023-01-04, **Molecular dynamics predictions of transport properties for carbon dioxide hydrates under pre-nucleation conditions using TIP4P/Ice water and EPM2, TraPPE, and Zhang carbon dioxide potentials**, André Guerra et.al., Paper: [http://arxiv.org/abs/2301.01757v1](http://arxiv.org/abs/2301.01757v1)
+- 2023-01-04, **Dynamic Viscosity of Methane and Carbon Dioxide Hydrate Systems from Pure Water at High-Pressure Driving Forces**, André Guerra et.al., Paper: [http://arxiv.org/abs/2301.01756v1](http://arxiv.org/abs/2301.01756v1)
+- 2023-01-04, **An efficient and quantitative phase-field model for elastically heterogeneous two-phase solids based on a partial rank-one homogenization scheme**, Sourav Chatterjee et.al., Paper: [http://arxiv.org/abs/2301.01746v1](http://arxiv.org/abs/2301.01746v1)
+- 2023-01-04, **Radiance Textures for Rasterizing Ray-Traced Data**, Jakub Maksymilian Fober et.al., Paper: [http://arxiv.org/abs/2301.01719v1](http://arxiv.org/abs/2301.01719v1)
+- 2023-01-04, **Top-down fabrication of atomic patterns in twisted bilayer graphene**, Ondrej Dyck et.al., Paper: [http://arxiv.org/abs/2301.01674v1](http://arxiv.org/abs/2301.01674v1)
+- 2023-01-04, **Symmetric fractional order reduction method with $L1$ scheme on graded mesh for time fractional nonlocal diffusion-wave equation of Kirchhoff type**, Pari J. Kundaliya et.al., Paper: [http://arxiv.org/abs/2301.01670v1](http://arxiv.org/abs/2301.01670v1)
+- 2023-01-04, **Numerical investigation of the sharp-interface limit of the Navier-Stokes-Cahn-Hilliard equations**, T. H. B. Demont et.al., Paper: [http://arxiv.org/abs/2301.01665v1](http://arxiv.org/abs/2301.01665v1)
+- 2023-01-04, **Dielectric relaxation induced by oxygen vacancies in Na$_{0.5}$Bi$_{0.5}$TiO$_{3}$ ceramics**, V. M. Sidak et.al., Paper: [http://arxiv.org/abs/2301.01528v1](http://arxiv.org/abs/2301.01528v1)
+- 2023-01-04, **Intracluster light is already abundant at redshift beyond unity**, Hyungjin Joo et.al., Paper: [http://arxiv.org/abs/2301.01523v1](http://arxiv.org/abs/2301.01523v1)
+- 2023-01-04, **Fast methods to track grain coagulation and ionization. III. Protostellar collapse with non-ideal MHD**, Pierre Marchand et.al., Paper: [http://arxiv.org/abs/2301.01510v1](http://arxiv.org/abs/2301.01510v1)
 - 2023-01-03, **Tunable intracellular transport on converging microtubule morphologies**, Niranjan Sarpangala et.al., Paper: [http://arxiv.org/abs/2301.01264v1](http://arxiv.org/abs/2301.01264v1)
 - 2023-01-03, **Non-stationary Lattice Anderson Model with Non-local Laplacian and Correlated White Noise**, Xiaoyun Chen et.al., Paper: [http://arxiv.org/abs/2301.01242v1](http://arxiv.org/abs/2301.01242v1)
 - 2023-01-03, **Plasma heating and particle acceleration in collisionless shocks through astrophysical observations**, Marco Miceli et.al., Paper: [http://arxiv.org/abs/2301.01183v1](http://arxiv.org/abs/2301.01183v1)
