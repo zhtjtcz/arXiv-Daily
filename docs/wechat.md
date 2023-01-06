@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2023-01-05, **Concentration Distribution of Simple Components Reaction Diffusion in one-dimensional linear Model**, Zihan Huang et.al., Paper: [http://arxiv.org/abs/2301.02235v1](http://arxiv.org/abs/2301.02235v1)
+- 2023-01-05, **Stochastic 2D Keller-Segel-Navier-Stokes system with fractional dissipation and logistic source**, Lei Zhang et.al., Paper: [http://arxiv.org/abs/2301.02131v1](http://arxiv.org/abs/2301.02131v1)
+- 2023-01-05, **Spatiotemporal linear stability of viscoelastic subdiffusive channel flows: a fractional calculus framework**, Tanisha Chauhan et.al., Paper: [http://arxiv.org/abs/2301.02078v1](http://arxiv.org/abs/2301.02078v1)
+- 2023-01-05, **Diffusive stability and self-similar decay for the harmonic map heat flow**, Tobias Lamm et.al., Paper: [http://arxiv.org/abs/2301.02067v1](http://arxiv.org/abs/2301.02067v1)
+- 2023-01-05, **Spatio-temporal characterization of Cassiopeia A**, Yuto Ichinohe et.al., Paper: [http://arxiv.org/abs/2301.02026v1](http://arxiv.org/abs/2301.02026v1)
+- 2023-01-05, **Large Fluctuations in Amplifying Graphs**, Stefano Lepri et.al., Paper: [http://arxiv.org/abs/2301.01980v1](http://arxiv.org/abs/2301.01980v1)
+- 2023-01-05, **A Streamline upwind Petrov-Galerkin Reduced Order Method for Advection-Dominated Partial Differential Equations under Optimal Control**, Fabio Zoccolan et.al., Paper: [http://arxiv.org/abs/2301.01973v1](http://arxiv.org/abs/2301.01973v1)
+- 2023-01-05, **EPR-Net: Constructing non-equilibrium potential landscape via a variational force projection formulation**, Yue Zhao et.al., Paper: [http://arxiv.org/abs/2301.01946v1](http://arxiv.org/abs/2301.01946v1)
+- 2023-01-05, **Accuracy and Fidelity Comparison of Luna and DALL-E 2 Diffusion-Based Image Generation Systems**, Michael Cahyadi et.al., Paper: [http://arxiv.org/abs/2301.01914v1](http://arxiv.org/abs/2301.01914v1)
+- 2023-01-05, **TractGraphCNN: anatomically informed graph CNN for classification using diffusion MRI tractography**, Yuqian Chen et.al., Paper: [http://arxiv.org/abs/2301.01911v1](http://arxiv.org/abs/2301.01911v1)
 - 2023-01-04, **Molecular dynamics predictions of transport properties for carbon dioxide hydrates under pre-nucleation conditions using TIP4P/Ice water and EPM2, TraPPE, and Zhang carbon dioxide potentials**, André Guerra et.al., Paper: [http://arxiv.org/abs/2301.01757v1](http://arxiv.org/abs/2301.01757v1)
 - 2023-01-04, **Dynamic Viscosity of Methane and Carbon Dioxide Hydrate Systems from Pure Water at High-Pressure Driving Forces**, André Guerra et.al., Paper: [http://arxiv.org/abs/2301.01756v1](http://arxiv.org/abs/2301.01756v1)
 - 2023-01-04, **An efficient and quantitative phase-field model for elastically heterogeneous two-phase solids based on a partial rank-one homogenization scheme**, Sourav Chatterjee et.al., Paper: [http://arxiv.org/abs/2301.01746v1](http://arxiv.org/abs/2301.01746v1)
@@ -400,7 +410,7 @@
 
 ## sketch
 
-- 2023-01-03, **EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions [Technical Report]**, Enhao Zhang et.al., Paper: [http://arxiv.org/abs/2301.00929v1](http://arxiv.org/abs/2301.00929v1)
+- 2023-01-03, **EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions [Technical Report]**, Enhao Zhang et.al., Paper: [http://arxiv.org/abs/2301.00929v1](http://arxiv.org/abs/2301.00929v1), Code: **[https://github.com/uwdb/equi-vocal](https://github.com/uwdb/equi-vocal)**
 - 2023-01-02, **Algorithms for Massive Data -- Lecture Notes**, Nicola Prezza et.al., Paper: [http://arxiv.org/abs/2301.00754v1](http://arxiv.org/abs/2301.00754v1)
 - 2022-12-31, **The functorial semantics of Lie theory**, Benjamin MacAdam et.al., Paper: [http://arxiv.org/abs/2301.00305v1](http://arxiv.org/abs/2301.00305v1)
 - 2022-12-29, **Bipolar Theorems for Sets of Non-negative Random Variables**, Johannes Langner et.al., Paper: [http://arxiv.org/abs/2212.14259v1](http://arxiv.org/abs/2212.14259v1)
