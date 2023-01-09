@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2023-01-06, **Strong solution of stochastic differential equations with discontinuous and unbounded coefficients**, Yaozhong Hu et.al., Paper: [http://arxiv.org/abs/2301.02625v1](http://arxiv.org/abs/2301.02625v1)
+- 2023-01-06, **A study of convective core overshooting as a function of stellar mass based on two-dimensional hydrodynamical simulations**, I. Baraffe et.al., Paper: [http://arxiv.org/abs/2301.02604v1](http://arxiv.org/abs/2301.02604v1)
+- 2023-01-06, **Capturing the dynamics of Ti diffusion across Ti$_x$W$_{1-x}$/Cu heterostructures using X-ray photoelectron spectroscopy**, Curran Kalha et.al., Paper: [http://arxiv.org/abs/2301.02577v1](http://arxiv.org/abs/2301.02577v1)
+- 2023-01-06, **Denser glasses relax faster: a competition between rejuvenation and aging during in-situ high pressure compression at the atomic scale**, A. Cornet et.al., Paper: [http://arxiv.org/abs/2301.02551v1](http://arxiv.org/abs/2301.02551v1)
+- 2023-01-06, **Analysis of a spatio-temporal advection-diffusion model for human behaviors during a catastrophic event**, K. Khalil et.al., Paper: [http://arxiv.org/abs/2301.02520v1](http://arxiv.org/abs/2301.02520v1)
+- 2023-01-06, **Effects of annealing on the fluctuation conductivity and pseudogap in slightly doped $HoBa_2Cu_3O_{7-δ}$ single crystals**, A. L. Solovjov et.al., Paper: [http://arxiv.org/abs/2301.02501v1](http://arxiv.org/abs/2301.02501v1)
+- 2023-01-06, **PDE for the joint law of the pair of a continuous diffusion and its running maximum**, Laure Coutin et.al., Paper: [http://arxiv.org/abs/2301.02442v1](http://arxiv.org/abs/2301.02442v1)
+- 2023-01-06, **Sensitivity analysis using Physics-informed neural networks**, John M. Hanna et.al., Paper: [http://arxiv.org/abs/2301.02428v1](http://arxiv.org/abs/2301.02428v1)
+- 2023-01-06, **Increase in Rod Diffusivity Emerges even in Markovian Nature**, Fumiaki Nakai et.al., Paper: [http://arxiv.org/abs/2301.02394v1](http://arxiv.org/abs/2301.02394v1)
+- 2023-01-06, **A SIR Stochastic Epidemic Model in Continuous Space: Law of Large Numbers and Central Limit Theorem**, Alphonse Emakoua et.al., Paper: [http://arxiv.org/abs/2301.02343v1](http://arxiv.org/abs/2301.02343v1)
 - 2023-01-05, **Concentration Distribution of Simple Components Reaction Diffusion in one-dimensional linear Model**, Zihan Huang et.al., Paper: [http://arxiv.org/abs/2301.02235v1](http://arxiv.org/abs/2301.02235v1)
 - 2023-01-05, **Stochastic 2D Keller-Segel-Navier-Stokes system with fractional dissipation and logistic source**, Lei Zhang et.al., Paper: [http://arxiv.org/abs/2301.02131v1](http://arxiv.org/abs/2301.02131v1)
 - 2023-01-05, **Spatiotemporal linear stability of viscoelastic subdiffusive channel flows: a fractional calculus framework**, Tanisha Chauhan et.al., Paper: [http://arxiv.org/abs/2301.02078v1](http://arxiv.org/abs/2301.02078v1)
@@ -410,6 +420,7 @@
 
 ## sketch
 
+- 2023-01-06, **Better Differentially Private Approximate Histograms and Heavy Hitters using the Misra-Gries Sketch**, Christian Janos Lebeda et.al., Paper: [http://arxiv.org/abs/2301.02457v1](http://arxiv.org/abs/2301.02457v1)
 - 2023-01-03, **EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions [Technical Report]**, Enhao Zhang et.al., Paper: [http://arxiv.org/abs/2301.00929v1](http://arxiv.org/abs/2301.00929v1), Code: **[https://github.com/uwdb/equi-vocal](https://github.com/uwdb/equi-vocal)**
 - 2023-01-02, **Algorithms for Massive Data -- Lecture Notes**, Nicola Prezza et.al., Paper: [http://arxiv.org/abs/2301.00754v1](http://arxiv.org/abs/2301.00754v1)
 - 2022-12-31, **The functorial semantics of Lie theory**, Benjamin MacAdam et.al., Paper: [http://arxiv.org/abs/2301.00305v1](http://arxiv.org/abs/2301.00305v1)
