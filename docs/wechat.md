@@ -15,6 +15,16 @@
 
 ## diffusion
 
+- 2023-01-09, **Indistinguishable telecom band photons from a single erbium ion in the solid state**, Salim Ourari et.al., Paper: [http://arxiv.org/abs/2301.03564v1](http://arxiv.org/abs/2301.03564v1)
+- 2023-01-09, **A unipolar quantum dot diode structure for advanced quantum light sources**, T. Strobel et.al., Paper: [http://arxiv.org/abs/2301.03541v1](http://arxiv.org/abs/2301.03541v1)
+- 2023-01-09, **Physics-separating artificial neural networks for predicting sputtering and thin film deposition of AlN in Ar/N$_2$ discharges on experimental timescales**, Tobias Gergs et.al., Paper: [http://arxiv.org/abs/2301.03524v1](http://arxiv.org/abs/2301.03524v1)
+- 2023-01-09, **A Lyapunov approach to stability of positive semigroups: An overview with illustrations**, Marc Arnaudon et.al., Paper: [http://arxiv.org/abs/2301.03484v1](http://arxiv.org/abs/2301.03484v1)
+- 2023-01-09, **High-temperature thermal conductivity measurements of macro-porous graphite**, Shomik Verma et.al., Paper: [http://arxiv.org/abs/2301.03440v1](http://arxiv.org/abs/2301.03440v1)
+- 2023-01-09, **MUSE crowded field 3D spectroscopy in NGC 300 : IV. Planetary nebula luminosity function**, Azlizan A. Soemitro et.al., Paper: [http://arxiv.org/abs/2301.03437v1](http://arxiv.org/abs/2301.03437v1)
+- 2023-01-09, **Image Denoising: The Deep Learning Revolution and Beyond -- A Survey Paper --**, Michael Elad et.al., Paper: [http://arxiv.org/abs/2301.03362v1](http://arxiv.org/abs/2301.03362v1)
+- 2023-01-09, **A-posteriori QMC-FEM error estimation for Bayesian inversion and optimal control with entropic risk measure**, Marcello Longo et.al., Paper: [http://arxiv.org/abs/2301.03327v1](http://arxiv.org/abs/2301.03327v1)
+- 2023-01-09, **Simulating the radio emissions of dark matter for new high-resolution observations with MeerKAT**, Michael Sarkis et.al., Paper: [http://arxiv.org/abs/2301.03326v1](http://arxiv.org/abs/2301.03326v1)
+- 2023-01-09, **Convergence towards the population cross-diffusion system from stochastic many-particle system**, Yue Li et.al., Paper: [http://arxiv.org/abs/2301.03306v1](http://arxiv.org/abs/2301.03306v1)
 - 2023-01-06, **Strong solution of stochastic differential equations with discontinuous and unbounded coefficients**, Yaozhong Hu et.al., Paper: [http://arxiv.org/abs/2301.02625v1](http://arxiv.org/abs/2301.02625v1)
 - 2023-01-06, **A study of convective core overshooting as a function of stellar mass based on two-dimensional hydrodynamical simulations**, I. Baraffe et.al., Paper: [http://arxiv.org/abs/2301.02604v1](http://arxiv.org/abs/2301.02604v1)
 - 2023-01-06, **Capturing the dynamics of Ti diffusion across Ti$_x$W$_{1-x}$/Cu heterostructures using X-ray photoelectron spectroscopy**, Curran Kalha et.al., Paper: [http://arxiv.org/abs/2301.02577v1](http://arxiv.org/abs/2301.02577v1)
@@ -420,6 +430,7 @@
 
 ## sketch
 
+- 2023-01-07, **Charles Babbage, Ada Lovelace, and the Bernoulli Numbers**, Thomas J. Misa et.al., Paper: [http://arxiv.org/abs/2301.02919v1](http://arxiv.org/abs/2301.02919v1)
 - 2023-01-06, **Better Differentially Private Approximate Histograms and Heavy Hitters using the Misra-Gries Sketch**, Christian Janos Lebeda et.al., Paper: [http://arxiv.org/abs/2301.02457v1](http://arxiv.org/abs/2301.02457v1)
 - 2023-01-03, **EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions [Technical Report]**, Enhao Zhang et.al., Paper: [http://arxiv.org/abs/2301.00929v1](http://arxiv.org/abs/2301.00929v1), Code: **[https://github.com/uwdb/equi-vocal](https://github.com/uwdb/equi-vocal)**
 - 2023-01-02, **Algorithms for Massive Data -- Lecture Notes**, Nicola Prezza et.al., Paper: [http://arxiv.org/abs/2301.00754v1](http://arxiv.org/abs/2301.00754v1)
