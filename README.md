@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-10**|**Diffusion Properties of a Brownian Ratchet with Coulomb Friction**|Massimiliano Semeraro et.al.|[2301.04073v1](http://arxiv.org/abs/2301.04073v1)|null|
+|**2023-01-10**|**Truncation of contact defects in reaction-diffusion systems**|Milen Ivanov et.al.|[2301.04071v1](http://arxiv.org/abs/2301.04071v1)|null|
+|**2023-01-10**|**Multi-species generalization of the totally asymmetric simple exclusion process**|Ali Zahra et.al.|[2301.04066v1](http://arxiv.org/abs/2301.04066v1)|null|
+|**2023-01-10**|**Transition from chemisorption to physisorption of H2 on Ti functionalized [2,2,2]paracyclophane: A computational search for hydrogen storage**|Rakesh K. Sahoo et.al.|[2301.03990v1](http://arxiv.org/abs/2301.03990v1)|null|
+|**2023-01-10**|**Probing Pole Skipping through Scalar-Gauss-Bonnet coupling**|Banashree Baishya et.al.|[2301.03984v1](http://arxiv.org/abs/2301.03984v1)|null|
+|**2023-01-10**|**Hydrogen storage in Li functionalized [2,2,2]paracyclophane at cryogenic to room temperatures: A computational quest**|Rakesh K. Sahoo et.al.|[2301.03974v1](http://arxiv.org/abs/2301.03974v1)|null|
+|**2023-01-10**|**Modiff: Action-Conditioned 3D Motion Generation with Denoising Diffusion Probabilistic Models**|Mengyi Zhao et.al.|[2301.03949v1](http://arxiv.org/abs/2301.03949v1)|null|
+|**2023-01-10**|**Trajectorial dissipation of $Φ$-entropies for interacting particle systems**|Benedikt Jahnel et.al.|[2301.03922v1](http://arxiv.org/abs/2301.03922v1)|null|
+|**2023-01-10**|**Discrete mixture representations of spherical distributions**|Ludwig Baringhaus et.al.|[2301.03870v1](http://arxiv.org/abs/2301.03870v1)|null|
+|**2023-01-10**|**DiffTalk: Crafting Diffusion Models for Generalized Talking Head Synthesis**|Shuai Shen et.al.|[2301.03786v1](http://arxiv.org/abs/2301.03786v1)|null|
 |**2023-01-09**|**Indistinguishable telecom band photons from a single erbium ion in the solid state**|Salim Ourari et.al.|[2301.03564v1](http://arxiv.org/abs/2301.03564v1)|null|
 |**2023-01-09**|**A unipolar quantum dot diode structure for advanced quantum light sources**|T. Strobel et.al.|[2301.03541v1](http://arxiv.org/abs/2301.03541v1)|null|
 |**2023-01-09**|**Physics-separating artificial neural networks for predicting sputtering and thin film deposition of AlN in Ar/N$_2$ discharges on experimental timescales**|Tobias Gergs et.al.|[2301.03524v1](http://arxiv.org/abs/2301.03524v1)|null|
