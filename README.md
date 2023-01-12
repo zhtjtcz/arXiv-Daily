@@ -17,6 +17,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-11**|**Entropy of different phases formed by soft rods**|Jayeeta Chattopadhyay et.al.|[2301.04621v1](http://arxiv.org/abs/2301.04621v1)|null|
+|**2023-01-11**|**Formally Exact Simulations of Mesoscale Exciton Diffusion in a Photosynthetic Aggregate**|Leonel Varvelo et.al.|[2301.04537v1](http://arxiv.org/abs/2301.04537v1)|null|
+|**2023-01-11**|**Machine-learning-assisted environment-adaptive thermal metamaterials**|Peng Jin et.al.|[2301.04523v1](http://arxiv.org/abs/2301.04523v1)|null|
+|**2023-01-11**|**Rethinking network community detection in the light of the Laplacian Renormalization Group**|Pablo Villegas et.al.|[2301.04514v1](http://arxiv.org/abs/2301.04514v1)|null|
+|**2023-01-11**|**Multiple emission components in the Cygnus cocoon detected from Fermi-LAT observations**|X. Astiasarain et.al.|[2301.04504v1](http://arxiv.org/abs/2301.04504v1)|null|
+|**2023-01-11**|**Detecting charge transfer in defective 2D WS2 with electron ptychography**|Christoph Hofer et.al.|[2301.04469v1](http://arxiv.org/abs/2301.04469v1)|null|
+|**2023-01-11**|**New members of the Lupus I cloud based on Gaia astrometry Physical and accretion properties from X-Shooter spectra**|F. Z. Majidi et.al.|[2301.04463v1](http://arxiv.org/abs/2301.04463v1)|null|
+|**2023-01-11**|**Systematic study of the effect of individual rotational energy levels on the fusion cross-section of \texorpdfstring{$^{16}O$}--based reactions of range $480 \le {Z_PZ_T} \le 592$**|Nishu Jain et.al.|[2301.04363v1](http://arxiv.org/abs/2301.04363v1)|null|
+|**2023-01-11**|**A Meta Path-based Approach for Rumor Detection on Social Media**|Bita Azarijoo et.al.|[2301.04341v1](http://arxiv.org/abs/2301.04341v1)|null|
+|**2023-01-11**|**Heat transport and convective velocities in compositionally-driven convection in neutron star and white dwarf interiors**|J. R. Fuentes et.al.|[2301.04273v1](http://arxiv.org/abs/2301.04273v1)|null|
 |**2023-01-10**|**Diffusion Properties of a Brownian Ratchet with Coulomb Friction**|Massimiliano Semeraro et.al.|[2301.04073v1](http://arxiv.org/abs/2301.04073v1)|null|
 |**2023-01-10**|**Truncation of contact defects in reaction-diffusion systems**|Milen Ivanov et.al.|[2301.04071v1](http://arxiv.org/abs/2301.04071v1)|null|
 |**2023-01-10**|**Multi-species generalization of the totally asymmetric simple exclusion process**|Ali Zahra et.al.|[2301.04066v1](http://arxiv.org/abs/2301.04066v1)|null|
@@ -444,6 +454,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-01-09**|**A Global Radio Remote Sensing Network for Observing Space Weather Dynamics**|Ryan Volz et.al.|[2301.04137v1](http://arxiv.org/abs/2301.04137v1)|null|
 |**2023-01-07**|**Charles Babbage, Ada Lovelace, and the Bernoulli Numbers**|Thomas J. Misa et.al.|[2301.02919v1](http://arxiv.org/abs/2301.02919v1)|null|
 |**2023-01-06**|**Better Differentially Private Approximate Histograms and Heavy Hitters using the Misra-Gries Sketch**|Christian Janos Lebeda et.al.|[2301.02457v1](http://arxiv.org/abs/2301.02457v1)|null|
 |**2023-01-03**|**EQUI-VOCAL: Synthesizing Queries for Compositional Video Events from Limited User Interactions [Technical Report]**|Enhao Zhang et.al.|[2301.00929v1](http://arxiv.org/abs/2301.00929v1)|**[link](https://github.com/uwdb/equi-vocal)**|
